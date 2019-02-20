@@ -2,13 +2,12 @@
 layout: post
 title: "Afstudeervoorstel"
 description: "Afstudeervoorstel Dungeons & Dragons afstudeerproject."
-author: Jan
+author: jan
 tags: principles
 category: voorstel
 ---
 
-1 Afstudeervoorstel
-====================
+# 1 Afstudeervoorstel
 
 ## 1.1 Aanleiding.
 De laatste jaren maken boardgames en andere _tabletops games_ een grote opmars. Samen met deze tabletop bordspellen winnen ook de _tabletop roleplaying games (RPG)_ zoals Dungeons and Dragons (DnD) en Pathfinder aan populariteit.
@@ -24,8 +23,7 @@ Deze problemen worden alleen nog maar groter als je speelt met een groep die onr
 Hieruit volgt de ontwerpvraag: Wat kan ik als ontwerper bedenken om de instap in Dungeons and Dragons makkelijker te maken en de spelervaring te verbeteren?
 
 
-1.2 Opdrachtformulering / doelstelling
-======================================
+# 1.2 Opdrachtformulering / doelstelling
 
 ### 1.2.1 Onderzoeksvraag
 Ontwerp een product, of meerdere producten, om de toegankelijkheid en spelervaring van Dungeons en Dragons (DnD) te verbeteren.
@@ -40,16 +38,15 @@ Hoe werken door spelers bedachte oplossingen?
 Welke middelen pas ik toe bij het ontwerpen van een product?
 Welke oplossingen voor de problemen kan ik ontwerpen?
 
-1.3 Betrokken partijen
-======================
+#1.3 Betrokken partijen
+
 ### Stakeholders:
 Wizard of the Coast  
 Spelers/DM's van Dungeons and Dragons  
 ### Anderen:
 Nieuwe Veste / Makersbase - als facilitaire organisatie voor terbeschikkingstelling van ruimtes en apparatuur.
 
-1.4 Bronnen
-===========
+# 1.4 Bronnen
 D&D Official Homepage. (n.d.). Retrieved January 30, 2019, from http://dnd.wizards.com/  
 D&D starter set. (2014). Renton, WA: Wizards of the Coast.  
 R/DnD. (n.d.). Retrieved January 30, 2019, from https://www.reddit.com/r/DnD/  
@@ -58,8 +55,8 @@ R/DnDBehindTheScreen. (n.d.). Retrieved January 30, 2019, from https://www.reddi
 
 All the different DM toolkits & management solutions
 	
-1.5 Methodiek
-=============
+# 1.5 Methodiek
+
 ### Gerichte enquetes
 In het begin van mijn onderzoek zal ik bij de gebruikers en online communities rondom DnD navragen welke problemen ze ervaren of ervaarde bij de eerste keren spelen van DnD. Welke informatie werd ze teveel of kostte moeite onder grip te krijgen?
 
