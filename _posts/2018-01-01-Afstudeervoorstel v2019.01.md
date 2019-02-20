@@ -4,7 +4,7 @@ title: "Afstudeervoorstel"
 description: "Afstudeervoorstel Dungeons & Dragons afstudeerproject."
 author: Jan
 tags: principles
-category: progress
+category: voorstel
 ---
 
 1 Afstudeervoorstel
