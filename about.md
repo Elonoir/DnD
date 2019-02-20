@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Hi i'm kuoa!** and here is the place where i document and share my projects.
+**Hi i'm Jan!** and here is the place where i document and share my Dungeons and Dragons related project.
 
-* [Github](http://github.com/kuoa)
-* Mail: kuoacat[at]gmail[dot]com
+* [Github](http://github.com/Elonoir)
+* Mail: mail[at]janhopmans[dot]nl
