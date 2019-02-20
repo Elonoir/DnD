@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Afstudeervoorstel"
+description: "Afstudeervoorstel Dungeons & Dragons afstudeerproject."
+author: Jan
+tags: principles
+category: progress
+---
+
 1 Afstudeervoorstel
 ====================
 
