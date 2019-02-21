@@ -38,7 +38,7 @@ Hoe werken door spelers bedachte oplossingen?
 Welke middelen pas ik toe bij het ontwerpen van een product?
 Welke oplossingen voor de problemen kan ik ontwerpen?
 
-#1.3 Betrokken partijen
+# 1.3 Betrokken partijen
 
 ### Stakeholders:
 Wizard of the Coast  
