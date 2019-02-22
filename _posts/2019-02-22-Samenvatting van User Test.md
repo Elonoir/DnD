@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Samenvatting van User Test"
+title: "Samenvatting van User Test #1"
 description: "Resultaten van eerste user test."
 author: jan
 tags: summary
