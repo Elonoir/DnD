@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Samenvatting #1"
+title: "Voortgang #1"
 description: "Eerste samenvatting van de resultaten en voortgang."
 author: jan
 tags: summary
@@ -16,8 +16,9 @@ Tijdens het ontwerpen zal ik me focussen op groepen beginnende spelers met zonde
 Het samenstellen van de testgroep staat uit, maar plannen van datum loopt nog wat lastig vanwege de verschillende agenda's van personen. Ik voeg aan deze chat aantal extra mensen toe om sneller datum te kunnen plannen en kies de mensen uit met de fijnste agenda.
 
 Plan voor komende 2 weken:
-    - Overzicht in en conclusie halen uit verzamelde data
-    - Langs bij de Jonge Strateeg: workshop op 19 febr en grote workshop op 21 voor 30 tot 40 jongeren.
-    - Afronden van planning met testgroep en adhv agenda wel of niet eerste test uitgevoerd.
-    - Beginnen met ontwerpen eerste aandachtspunten a.d.h.v. eerste indicaties.
-    - Over een week zoek ik contact op voor een nieuwe afspraak adhv de agende en vooruitgang.
+
+- Overzicht in en conclusie halen uit verzamelde data
+- Langs bij de Jonge Strateeg: workshop op 19 febr en grote workshop op 21 voor 30 tot 40 jongeren.
+- Afronden van planning met testgroep en adhv agenda wel of niet eerste test uitgevoerd.
+- Beginnen met ontwerpen eerste aandachtspunten a.d.h.v. eerste indicaties.
+- Over een week zoek ik contact op voor een nieuwe afspraak adhv de agende en vooruitgang.
