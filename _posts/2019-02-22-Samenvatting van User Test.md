@@ -7,9 +7,6 @@ tags: summary
 category: tests
 ---
 
-Samenvatting van User Test #1
-=============================
-
 Tijdens het uitvoeren van de user test zag ik veel van dezelfde problemen langskomen als door mensen tijdens de enquete zijn aangegeven. Helaas was een van de testspelers, Nabil (Cleric), meer ervaren als verwacht waardoor de echte beginners problemen bij hem niet duidelijk naar voren zijn gekomen.
 
 Het mooie aan een wat meer ervaren speler was dat je gelijk zag hoe hij anderen ging helpen en de steun die mensen hier uit haalde. Het gebeurde erg vaak, maar helaas was het hierdoor voor anderen soms ook lastig om aan te geven of te begrijpen wat er precies mis ging. Gelukkig heeft dit niet voor al teveel problemen gezorgd en zijn mijn conclusies duidelijk. 
