@@ -7,9 +7,3 @@ tags: Vox
 ---
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/2PEt5RdNHNw" frameborder="0" allowfullscreen></iframe></center><br>
-
-
-
-```html
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/2PEt5RdNHNw" frameborder="0" allowfullscreen></iframe></center>
-```
