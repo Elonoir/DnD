@@ -136,10 +136,10 @@ Er zijn dus erg veel dingen waar ik mee aan de slag kan. Voor nu heb ik besloten
 	 - Achtergrond en relaties van je character
 - Roll mechanics:
 	- Welke en wanneer?
- - Combat:
- 	 - Stappen en rolls in combat
- 		 - Wat kan ik?
-		 - Wat moet ik wanneer rollen?
+- Combat:
+ 	- Stappen en rolls in combat
+ 		- Wat kan ik?
+		- Wat moet ik wanneer rollen?
 
 ### Spellcasters:
   - Alle verschillende aspecten van spells zoals hierboven beschreven
