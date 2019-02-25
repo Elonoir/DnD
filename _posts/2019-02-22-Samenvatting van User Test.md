@@ -145,7 +145,5 @@ Er zijn dus erg veel dingen waar ik mee aan de slag kan. Voor nu heb ik besloten
   - Alle verschillende aspecten van spells zoals hierboven beschreven
 
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/K0yOuVmNZlY" frameborder="0" allowfullscreen></iframe></center><br>
-
 [^1]: <https://github.com/Elonoir/DnD/assets/Voorbereiding_Luc.7z>
 [2]: <https://github.com/Elonoir/DnD/assets/UsersTest#1_Small.mp4>
