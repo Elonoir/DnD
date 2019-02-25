@@ -4,7 +4,7 @@ title: "Samenvatting van User Test #1"
 description: "Resultaten van eerste user test."
 author: jan
 tags: summary
-category: tests
+category: research
 ---
 
 Tijdens het uitvoeren van de user test zag ik veel van dezelfde problemen langskomen als door mensen tijdens de enquete zijn aangegeven. Helaas was een van de testspelers, Nabil (Cleric), meer ervaren als verwacht waardoor de echte beginners problemen bij hem niet duidelijk naar voren zijn gekomen.
