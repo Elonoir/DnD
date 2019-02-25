@@ -3,7 +3,7 @@ layout: post
 title: "Zelf geconstateerde problemen"
 description: "Voorafgaand aan afstudeervoorstel zelf geconstateerde problematiek."
 author: jan
-tags: summary enquete
+tags: problemen 
 category: voorstel
 ---
 
