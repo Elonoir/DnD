@@ -3,13 +3,13 @@ layout: post
 title: "Analyse vragenlijst: Problemen"
 description: "De door spelers van Dungeons en Dragons aangegeven problemen bij het eerste keer spelen van Dungeons en Dragons."
 author: jan
-tags: summary, enquete
+tags: summary enquete
 category: tests
 ---
 
 Uit de enquete komt terug dat mensen veel problemen hebben met de regels. Óf wanneer dit niet het geval is ze vooral veel geleerd hebben van ervaren Dungeon Masters of mede-spelers. In een groep met beginners zijn deze resources niet beschikbaar.
 
-Alle volledige antwoorden van de enquete zijn hier te vinden: [EnqueteResults.pdf]({site.url}/assets/EnqueteResults.pdf)
+Alle volledige antwoorden van de enquete zijn hier te vinden: [EnqueteResults.pdf]({{site.url}}/assets/EnqueteResults.pdf)
 
 # Regels
 - Lastig om te zien welke relevant zijn en welke niet.
