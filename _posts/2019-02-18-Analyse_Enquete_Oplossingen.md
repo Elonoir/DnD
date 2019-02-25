@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Analyse vragenlijst: Problemen"
+title: "Analyse vragenlijst: Oplossingen"
 description: "Oplossingen uit eerste enquete."
 author: jan
 tags: summary enquete
