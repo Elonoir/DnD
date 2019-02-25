@@ -49,7 +49,7 @@ Als antwoord hebben spelers veel verschillende middelen aangegeven waar ze gebru
 	- Herinneringen voor spelers:
 		- *"Zo had ik als DM een blad op tafel liggen over combat met welke acties er zijn e.d."*
 
-# Welke zou ik verder willen onderzoeken of uit willen testen?
+# Welke wil ik verder onderzoeken?
  - Vluchtige blik op alle applicaties
  - Verder onderzoek naar: 
  	- DnD Beyond
