@@ -7,7 +7,7 @@ tags: summary enquete
 category: research
 ---
 
-Als antwoord hebben spelers veel verschillende middelen aangegeven waar ze gebruik van maken om de problemen die ze ervaren tijdens het spelen van Dungeons & Dragons te verhelpen. Zo zijn er erg veel digitale applicaties. In de volgende stap van mijn onderzoek zou ik een vluchtige blik willen werpen op wat de toegevoegde waarde van deze applicaties is voor spelers en DM's. Én daarmee in het bijzonder DnD Beyond omdat gebruikers hier erg oer zijn te spreken.
+Als antwoord hebben spelers veel verschillende middelen aangegeven waar ze gebruik van maken om de problemen die ze ervaren tijdens het spelen van Dungeons & Dragons te verhelpen. Zo zijn er erg veel digitale applicaties. In de volgende stap van mijn onderzoek zou ik een vluchtige blik willen werpen op wat de toegevoegde waarde van deze applicaties is voor spelers en DM's. Én daarmee in het bijzonder DnD Beyond omdat gebruikers hier erg over zijn te spreken.
 
 # Welke oplossingen gebruiken spelers nu?
 
