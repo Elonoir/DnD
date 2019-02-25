@@ -11,17 +11,17 @@ Uit de enquete komt terug dat mensen veel problemen hebben met de regels. Óf wa
 
 Alle volledige antwoorden van de enquete zijn hier te vinden: [EnqueteResults.pdf]({{site.url}}/assets/EnqueteResults.pdf)
 
-# Regels
+## Regels
 - Lastig om te zien welke relevant zijn en welke niet.
 - Je moet veel weten
 	- Als je het eenmaal weet weet je het, maar in het begin is het best veel.
 - Beginnen met spelen onder onervaren Dungeon Master
 	
-## Begrippen
+### Begrippen
 - Begrip van de term level
 - Verwarrende termen en afkortingen als AC, DC, HP, GP, XP
 
-# Roleplaying & Story world.
+## Roleplaying & Story world.
 - Acteren voelt heel awkward
 - Wat en wie is mijn character?
 - _"Theatre of the Mind"_
@@ -29,13 +29,13 @@ Alle volledige antwoorden van de enquete zijn hier te vinden: [EnqueteResults.pd
 - Er is geen journal: het potje daarna moet iedereen weten waar we gebleven zijn. 
 	- *"Zeker als spelers niet bij kunnen zijn kan dat soms heel lastig zijn. Tenzij je een olifanten geheugen hebt."*
 
-# Concept van vrijheid en mogelijkheden
+## Concept van vrijheid en mogelijkheden
 - Het concept van totale vrijheid: de mogelijkheden van keuze's
 	- Inschatten van wat wel en niet kan.
 	- Overzicht van alle mogelijkheden.
 	- *"Het feit dat alles mag, maar er wel veel regels zijn."*
 
-# Character & Character sheets
+## Character & Character sheets
 - Aanmaken van karakters
 	- Veel keuze's en mogelijkheden die je voor langere tijd vastlegt
 	- Wat is het verschil tussen de classes
@@ -52,7 +52,7 @@ Alle volledige antwoorden van de enquete zijn hier te vinden: [EnqueteResults.pd
 	- Bijv. een halfling mag een 1 rerollen.
 - Verschil tussen skills, feats en class features
 
-## Classes
+### Classes
 - Wat kan mijn class anders als andere classes?
 - Overzicht in en onthouden van specifieke class abilities
 	- Vaak is er maar één class van ieder type in een groep, dus je bent hier zelf verantwoordelijk voor om te onthouden of er is niemand om specifiek hier op af te kijken. 
@@ -60,7 +60,7 @@ Alle volledige antwoorden van de enquete zijn hier te vinden: [EnqueteResults.pd
 	- Werking
 		- Hoe moet ik de tekst lezen en wat doet het?
 
-## Spellcasters: bijv. Wizard en Druids
+### Spellcasters: bijv. Wizard en Druids
 - Overzicht in spells:
 	- Volgende classes zijn genoemd: Druid, Wizard
 	- Spells stats
@@ -70,7 +70,7 @@ Alle volledige antwoorden van de enquete zijn hier te vinden: [EnqueteResults.pd
 	- Wizard spells: hoe krijg je er meer?
 		- krijg je ze als level up, en moet je ze dan weer opschrijven met magische inkt en papier? Of niet?
 
-# Combat en encounters:
+## Combat en encounters:
 - Skill checks en saving throws 
 	- Wanneer wel en wanneer niet?
 	- *"Ik had te veel random dingen waarvoor de spelers om moesten rollen waardoor de sessie te lang duurden met weinig voortgang."*
@@ -79,7 +79,7 @@ Alle volledige antwoorden van de enquete zijn hier te vinden: [EnqueteResults.pd
 	- Wanneer wel en wanneer niet?
 	- Welke?
 
-## Combat
+### Combat
 - Welke dice gebruik je voor damage?
 - Mogelijkheden die je hebt tijdens je turn:
 	- Buiten lopen en aanvallen bijv: aanvallen, dodgen, ready action, item interaction etc.
@@ -92,7 +92,7 @@ Alle volledige antwoorden van de enquete zijn hier te vinden: [EnqueteResults.pd
 - Het verduidelijken van omstandigheden als DM
 - Vooruitdenken
 
-# Overzicht
+## Overzicht
 - Wat je kan kopen in de winkel
 - Quests(?)
 
@@ -126,18 +126,18 @@ Veel mensen hebben aangegeven dat de sessie/het spel valt of staat met de Dungeo
 	- Een goed kloppend verhaal neerzetten
 
 
-Out of my scope, interessant om rekening mee te houden:
+# Out of my scope, interessant om rekening mee te houden:
 ======================================================================================
 
 Taal is door meerdere als barriëre genoemd. Dit betreft o.a. mensen met Dyslexie en dat ook zij veel tekst moeten lezen, maar ook het feit dat Dungeons & Dragons alleen in het Engels wordt uitgegeven en niet allen deze taal meester zijn.
 
-# Taal
+## Taal
 - Taal
 	- Beperkt of niet beschikbare Nederlandse versie
 	- Lezen met dyslexie  
 		_"Je zou kunnen stellen dat ik dankzij D&D behoorlijk heb kunnen leren lezen."_ 
 	- Verassend veel benoemd.
 
-# Datum plannen
+## Datum plannen
 - Lastig om met regelmaat te spelen.
 	- Agenda's
