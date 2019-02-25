@@ -4,7 +4,7 @@ title: "Zelf geconstateerde problemen"
 description: "Voorafgaand aan afstudeervoorstel zelf geconstateerde problematiek."
 author: jan
 tags: summary enquete
-category: Voorstel
+category: voorstel
 ---
 
 Dit is puntgewijs de aan de het afstudeervoorstel voorafgaande geconstateerde problematiek.
