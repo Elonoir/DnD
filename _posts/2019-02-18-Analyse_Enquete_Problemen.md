@@ -124,8 +124,8 @@ Veel mensen hebben aangegeven dat de sessie/het spel valt of staat met de Dungeo
 	- Een goed kloppend verhaal neerzetten
 
 
-Out of my scope, interessant om rekening mee te houden:
-======================================================================================
+Out of my scope:
+================
 
 Taal is door meerdere als barriëre genoemd. Dit betreft o.a. mensen met Dyslexie en dat ook zij veel tekst moeten lezen, maar ook het feit dat Dungeons & Dragons alleen in het Engels wordt uitgegeven en niet allen deze taal meester zijn.
 
