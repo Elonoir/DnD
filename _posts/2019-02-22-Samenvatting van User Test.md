@@ -146,5 +146,4 @@ Er zijn dus erg veel dingen waar ik mee aan de slag kan. Voor nu heb ik besloten
 
 
 [^1]: <https://github.com/Elonoir/DnD/assets/Voorbereiding_Luc.7z>
-[I'm an inline-style link](https://www.google.com)
 \[2\]: [UserTest#1.mp4](https://github.com/Elonoir/DnD/assets/UsersTest#1_Small.mp4)
