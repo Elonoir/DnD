@@ -20,8 +20,7 @@ category: quotes
   
 
 > (over digitale oplossingen) Een gevaar ligt in: is het dan nog nuttig om samen te zitten. Ik denk dat het ontwerp het vetst is als je dat wel forceert. Ik heb ook D&D als videogame gespeelt. En dat is toch veel minder leuk dan samen zitten, elkaar in de ogen kijken, soms goed willen samen werken, andere keren elkaar erbij naaien.
-
-- Aron
+> - Aron
   
   
 > There is a feeling you need to know too many rules, but in the end you can just start with the basics.
