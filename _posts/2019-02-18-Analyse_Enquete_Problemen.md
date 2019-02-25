@@ -3,7 +3,7 @@ layout: post
 title: "Analyse vragenlijst: Problemen"
 description: "De door spelers van Dungeons en Dragons aangegeven problemen bij het eerste keer spelen van Dungeons en Dragons."
 author: jan
-tags: summary enquete
+tags: summar yenquete
 category: tests
 ---
 
