@@ -9,7 +9,7 @@ category: progress
 
 Ik heb afgelopen week eerste vragenlijst uitgezet. Als eerste indicatie blijkt dat de hoeveelheid regels en welke relevant zijn voor mensen veel is. Voor de mensen die dit niet lastig vonden hadden ze erg veel aan de Dungeon Master. Hiernaast noemen veel mensen een applicatie, maar uit de vragenlijst blijkt nog niet zo direct waarom ze dit als oplossing zien behalve het inzicht in de regels die het kan geven.
 
-Uit verschillende inspiratiebronnen zoals de YouTube series Running the Game van Matthew Colville en mijn ervaring met Legacy format bordspellen is een gefaseerde introductie in de verschillende mechanics van het spel een interessant perspectief om te verkennen. Ik denk hierbij o.a. naar het herontwerpen van character sheet; bijv. het toepassen op verschillende classes, een interactieve vorm of gefaseerd introduceren van informatie.
+Uit verschillende inspiratiebronnen zoals de YouTube series _Running the Game_ van _Matthew Colville_ en mijn ervaring met Legacy format bordspellen is een gefaseerde introductie in de verschillende mechanics van het spel een interessant perspectief om te verkennen. Ik denk hierbij o.a. naar het herontwerpen van character sheet; bijv. het toepassen op verschillende classes, een interactieve vorm of gefaseerd introduceren van informatie.
 
 Tijdens het ontwerpen zal ik me focussen op groepen beginnende spelers met zonder ervaren spelers in de groep. De eerste inventarisatie geeft al indicaties dat ontwerpen gericht op de DM een belangrijk onderdeel zal gaan spelen. Als vorm heb ik gekozen voor de fysiek of analoge ervaring.
 
