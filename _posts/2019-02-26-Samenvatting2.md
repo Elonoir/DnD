@@ -13,29 +13,32 @@ category: progress
 Uit mijn onderzoek zijn een aantal verschillend probleemcategorieën gekomen. Voor mijn afstuderen zou ik eerstvolgend voor de volgende problemen naar oplossingen willen kijken:
 
 - Character sheets  
-	Veel mensen geven aan deze nog erg onoverzichtelijk te vinden en dat er hier in het begin veel te veel informatie op ze af komt: Kan ik als ontwerper deze character sheets versimpelen, onnodige informatie weglaten of verschillende aspecten langzaam introduceren?
-    - Uitleg per character & class
-    - Duidelijk mogelijkheden
-    - Vertaling van stats e.d. naar situaties.
+	Veel mensen geven aan deze erg onoverzichtelijk te vinden en dat er teveel informatie op ze af komt. Hoe kan ik dit filteren of verschillende aspecten langzaam introduceren?
     - Begrippen
+    - Uitleg per character & class
+    - Vertaling van stats e.d. naar situaties.
+    - Inventory
 - Spells  
-	Bijna alle mensen geven aan als beginner helemaal niets te snappen van spells en dit was ook bij mijn eerste usertest duidelijk te zien. Dit gaat van spells slots tot aan de kosten van een spell aka'VSM'. Mogelijk ook te combineren met de character sheets.
-    - Spellbooks
+	Bijna alle spelers geven aan hier niets van te snappen van spells en dit was ook bij de eerste usertest duidelijk te zien. Van spells slots, spell preparation tot aan de kosten van een spell aka'VSM' is dit onduidelijk. _Mogelijk ook te combineren met de character sheets._
+    - Spellbooks & spell preparation
     - Spellcards
     - Spell costs
     - Tools voor concentration
 - Mogelijkheden van het spel:  
-	- Wat kan ik allemaal als speler?
-- DM: Presentatie van regels en overzicht de wereld voor de DM
-	- Character, monsters and location sheets.
-	- Bijv. via DM screen.
-	- Enounter and rule cards.
-- Ingame Reminders, o.a.:
-	- Spellcards
+	- Wat kan ik als speler?
+	- Mogelijk in combinatie met character sheet
+- Ingame Reminders:
 	- Actions cards
 	- Rule cards
 	- Advantage / Disadvantage
 	- Inspiration
+- **DM**: Presentatie van regels en overzicht de wereld voor de DM
+	- Snel inzicht of overzicht in:
+		- Belangrijke aspecten van zijn spelers.
+		- Locaties en encounters
+		- Mobs op deze locaties
+		- Enounter and regels.
+	- Bijv. via DM screen.
 
 Hiernaast maken de spelers hiernaast erg veel gebruik van verschillende applicaties. Ondanks dat hier voor mijzelf weinig interessante ontwerpvragen liggen wil ik toch kijken welke meerwaarde deze applicaties bieden en of ik hier andere oplossingen voor kan bedenken en of ik van hun oplossingen kan leren. 
 
@@ -43,7 +46,7 @@ Zoals ook hierboven bij de punten is te zien wil ik ook gaan kijken naar de vers
 
 De Jonge strateeg gebruikt tijdens zijn workshop ook een eigen gemaakte en voor beginners versimpelde character sheet, waarvan ook ik er één heb gekregen. Deze zal ik onder andere voor mijn inspiratie gebruiken.
 
-Zie voor meer informatie voor punten waar ik aan wil werken [mijn analyse van de enquete]({{site.url}}/research/2019/02/18/Analyse_Enquete_Problemen.html) en de [conclusie van de eerste usertest]({{site.url}}/research/2019/02/22/Samenvatting-van-User-Test.html). 
+Zie voor meer informatie voor punten waar ik aan wil werken mijn [analyse van de enquete]({{site.url}}/research/2019/02/18/Analyse_Enquete_Problemen.html) en de [conclusie van de usertest]({{site.url}}/research/2019/02/22/Samenvatting-van-User-Test.html). 
 
 ## Ontwerp- en onderzoeksvragen:
  
@@ -54,3 +57,12 @@ Character sheets:
 
  - Is het verschil tussen skills, feats en class features belangrijk?
  - Welke verschillen tussen characters, classes en abilities zijn belangrijk?
+
+ Applicaties
+ - Waarom gebruiken spelers applicaties als DnD Beyond?
+ - Wat kan ik van deze applicaties leren?
+
+ Bedachte oplossingen:
+ - Welke van de door spelers bedachte oplossingen kan ik gebruiken om bovenstaande problemen op te lossen?
+ - Wat zijn door spelers bedachte oplossignen?
+ - Wat kan ik gebruiken als inspiratie voor mijn eigen ontwerpen?
