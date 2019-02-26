@@ -6,4 +6,4 @@ permalink: /about/
 **Hi i'm Jan!** and here is the place where i document and share my Dungeons and Dragons related project.
 
 * [Github](http://github.com/Elonoir)
-* Mail: mail[at]janhopmans[dot]nl
+* Mail: [mail@janhopmans.nl](mailto:mail@janhopmans.nl)
