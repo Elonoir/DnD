@@ -19,6 +19,7 @@ Veel mensen geven aan deze erg onoverzichtelijk te vinden en dat er teveel infor
 - Uitleg per character & class
 - Vertaling van stats e.d. naar situaties.
 - Inventory
+
 ### Spells  
 	
 Bijna alle spelers geven aan hier niets van te snappen van spells en dit was ook bij de eerste usertest duidelijk te zien. Van spells slots, spell preparation tot aan de kosten van een spell aka'VSM' is dit onduidelijk. _Mogelijk ook te combineren met de character sheets._
@@ -30,10 +31,10 @@ Bijna alle spelers geven aan hier niets van te snappen van spells en dit was ook
 ### Mogelijkheden van het spel:  
 - Wat kan ik als speler?
 - Mogelijk in combinatie met character sheet
+- Actions cards
 
 ### Ingame Reminders:
 
-- Actions cards
 - Rule cards
 - Advantage / Disadvantage
 - Inspiration
@@ -60,7 +61,7 @@ Zie voor meer informatie voor punten waar ik aan wil werken mijn [analyse van de
 
 ## Ontwerp- en onderzoeksvragen:
  
-Character sheets:
+### Character sheets:
  - Welke character sheets gebruiken mensen?
  - Hoe kan ik character sheets toegankelijker maken voor gebruikers?
  - Hoe kan ik informatie 'geleidelijk' introduceren?
@@ -68,11 +69,11 @@ Character sheets:
  - Is het verschil tussen skills, feats en class features belangrijk?
  - Welke verschillen tussen characters, classes en abilities zijn belangrijk?
 
- Applicaties
+### Applicaties
  - Waarom gebruiken spelers applicaties als DnD Beyond?
  - Wat kan ik van deze applicaties leren?
 
- Bedachte oplossingen:
+### Bedachte oplossingen:
  - Welke van de door spelers bedachte oplossingen kan ik gebruiken om bovenstaande problemen op te lossen?
  - Wat zijn door spelers bedachte oplossignen?
  - Wat kan ik gebruiken als inspiratie voor mijn eigen ontwerpen?
