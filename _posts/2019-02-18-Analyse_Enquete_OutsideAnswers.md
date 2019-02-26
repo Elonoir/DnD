@@ -18,7 +18,7 @@ Duncan laat mij via het voorbeeld van de initiative tracker weten dat het belang
 ## Bandy
 > Hmm ik probeer de vragen in te vullen maar ik heb juist dat ik het begin makkeljiker vond dan nu dat ik de regels ken. Voorbeeldantwoord:
 > 
-> - Waar liep je tijdens je eerste keren DnD tegenaan?
+> - Waar liep je tijdens je eerste keren DnD tegenaan?  
 > Een pure-blood vampire en ik kon niet hard wegrennen als gnome. Nee maar even serieus op het begin was ik juist heel vrij en door het niet snappen van het spel raakte ik juist heel immersed. Geen regels, alles kan en je let meer op het verhaal. Tegenwoordig heb ik dat juist minder en ik wil terug naar een 'noob' zijn in D&D want dat was leuk!
 > 
 > Weet niet of je hier wat aan hebt? Voor mij was alle onduidelijkheid, niet snappen van de regels juist net het beste aan heel D&D. Ik kon gewoon zeggen: ik wil dit doen. En de DM paste het dan wel in het D&D universum. Dat geeft heel veel vrijheid en zorgt voor creatieve oplossingen.
@@ -43,4 +43,5 @@ Voor ini tracking deel ik nummer kaartjes die je neer zet uit van 1 tot 10 aan d
 # Online resources
 
 ## DnD Beyond, Dungeon Mastering tips from DnD 4th Edition
-https://www.dndbeyond.com/posts/414-dungeon-mastering-tips-from-the-4th-edition
+[https://www.dndbeyond.com/posts/414-dungeon-mastering-tips-from-the-4th-edition]  
+<https://www.dndbeyond.com/posts/414-dungeon-mastering-tips-from-the-4th-edition>

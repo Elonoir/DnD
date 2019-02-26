@@ -88,7 +88,7 @@ Wel zijn er veel andere waardevollere suggesties bij de enquete naar voren gekom
 
 ### Quotes
 
-	"Ik denk dat er qua spelers genoeg tools zijn, meer qua DM meer organisatie of spel hulpmiddelen om het wat vloeiender te laten verlopen."
+> "Ik denk dat er qua spelers genoeg tools zijn, meer qua DM meer organisatie of spel hulpmiddelen om het wat vloeiender te laten verlopen."
 
 # Welke wil ik verder onderzoeken?
 - Vluchtige blik op alle applicaties
