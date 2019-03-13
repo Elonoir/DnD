@@ -27,8 +27,8 @@ Bijna alle spelers geven aan hier niets van te snappen van spells en dit was ook
 - Spellcards
 - Spell costs
 - Tools voor concentration
-
-### Mogelijkheden van het spel:  
+	
+### Mogelijkheden in het spel:  
 - Wat kan ik als speler?
 - Mogelijk in combinatie met character sheet
 - Actions cards
