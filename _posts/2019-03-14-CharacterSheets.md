@@ -17,19 +17,43 @@ Onderzoeksvragen:
 
 - Om welke reden gebruiken ze deze character sheets?
 	- Automatisch uitrekenen van stats 
-	- Beschikbaarheid van alle spelerdata (wel of niet legaal)
+	- Beschikbaarheid van alle speldata (wel of niet legaal)
 
 - Wat doen de zelf gemaakte character sheets van spelers anders?
 	- DnD Beyond: vermeld mogelijk acties van character
 		- Dit gebeurd op basis van de specifieke mogelijkheden van class.
+	- Categoriseren informatie op basis van gebruik.
+	- Vinden het prima om gebruik te maken van meerdere pagina's.
 
-
-## Custom Character Sheets
 
 ## Character Sheet by DragonsLair.it
-- https://dnd5echaractersheet.us/wp-content/uploads/2018/09/DD-character-sheet-5e-fillable.pdf
-Opinion: 
-- https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/ehbt1an/
+
+![DragonsLair Character sheet]({{site.url}}/assets/dragonslair.png)
+_https://dnd5echaractersheet.us/wp-content/uploads/2018/09/DD-character-sheet-5e-fillable.pdf_
+
+### What do people like about this character sheet: 
+- Everything is just organized better than the official:
+	- Everything is placed in such a way that makes it easy to use 
+	- Skills are categorized based on stat
+	- The attacks spot allows for some notes with it
+- There is a full page for inventory
+- It's a form-fillable PDF
+<!-- 
+
+#### What do I notice? -->
+- Informatie is gecategoriseerd:
+	- Skills zijn gekoppeld aan hun base stat.
+	- Aparte pagina voor minder voorkomende skills, inventory, spells + spell slots
+- Kleine reminders op de pagina zoals 1 pp == 100 gp
+- Speciale sectie voor movement, *inclusief* vision.
+- Specifiek vakje voor initiative bonus
+
+
+<!-- ### Not so good:
+- 
+- 
+
+#### What do I notice? -->
 
 ## Character Sheet by /u/a-perture
 - https://www.reddit.com/r/DnD/comments/9hjzei/art_i_made_a_character_sheet/
@@ -46,14 +70,14 @@ Opinions:
 ## Character Sheets by DnD Beyond
 
 ![DnD Beyond Character sheet]({{site.url}}/assets/dnd-beyond.png)
-- https://www.dndbeyond.com/profile/Elonoir/characters/9912138
+_https://www.dndbeyond.com/profile/Elonoir/characters/9912138_
 
 ### What do people like about this character sheet: 
 - Clear and well structured design
 - Stats are automatically calculated
-- Onbekende informatie is snel te vinden (clickthrough)
+- Onbekende informatie is snel te vinden (clickthrough)<!-- 
 
-#### What do I notice?
+#### What do I notice? -->
 - Informatie is netjes gegroepeerd
 - Spell slots bij de spells
 - Extra informatie bij de verschillende items, maar pas _indien nodig_
@@ -62,10 +86,10 @@ Opinions:
 
 ### Not so good:
 - If there is a bug in the code (like for example HP), there is nothing you can do.
-- Je moet materiaal dubbel aanschaffen als je dit digitaal wilt gebruiken. 
+- Je moet materiaal dubbel aanschaffen als je dit digitaal wilt gebruiken. <!-- 
 
-#### What do I notice?
-- Character portrait neemt een kleine rol
+#### What do I notice? -->
+- Character portrait neemt een kleine rol / bijna onzichtbaar
 - Je moet alsnog veel kennen om in te voeren, geeft niet veel netjes default opties
 
 
