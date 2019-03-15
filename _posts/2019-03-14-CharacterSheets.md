@@ -43,9 +43,8 @@ Onderzoeksvragen:
 
 ### Not so good:
 - If there is a bug in the code (like for example HP), there is nothing you can do.
-- Je moet materiaal dubbel aanschaffen als je dit digitaal wilt gebruiken. <!-- 
-
-#### What do I notice? -->
+- Je moet materiaal dubbel aanschaffen als je dit digitaal wilt gebruiken. 
+<!-- #### What do I notice? -->
 - Character portrait neemt een kleine rol / bijna onzichtbaar
 - Je moet alsnog veel kennen om in te voeren, geeft niet veel netjes default opties
 
