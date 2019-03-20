@@ -6,25 +6,35 @@ author: jan
 tags: findings, examples
 category: research
 ---
-
+<!-- 
 ## Onderzoeksvragen:
-
-### Om welke reden gebruiken spelers deze character sheets?
+ -->
+## Om welke reden gebruiken spelers deze character sheets?
 - Automatisch uitrekenen van stats 
 - Beschikbaarheid van alle speldata (wel of niet legaal)
+- Overzicht of selectie in aangeboden informatie
+	- Selectie van getoonde informatie specifiek voor een bepaalde class of een doelgroep als kinderen of beginners.
+- Link met verdiepende informatie: hoef je zelf niet zoveel hoeven te onthouden.
+- Niet alle berekeningen zelf te hoeven doen. 
 
-### Wat doen de zelf gemaakte character sheets van spelers anders?
-- DnD Beyond: vermeld mogelijk acties van character
-	- Dit gebeurd op basis van de specifieke mogelijkheden van class.
-- Categoriseren informatie op basis van gebruik.
-- Maker voor minder gebruikte of gedetaileerde infomratie gebruik extra pagina's.  
-	Dit wordt o.a. gedaan voor het volgende:  
+## Wat doen de zelf gemaakte character sheets van spelers anders?
+- Vermelden mogelijke acties van speler en karakter
+	- Dit gebeurd o.a. op basis van de specifieke mogelijkheden van class.
+- Categoriseren informatie op basis van gebruik en relevantie.
+	- Bijvoorbeeld: Alle onderdelen die te maken hebben met combat staan bij elkaar.
+- Maken een selectie aan welke informatie ze aan de speler laten zien.
+- Maken voor gedetaileerde informatie gebruik van extra pagina's. Dit wordt o.a. gedaan voor het volgende:  
 	- Inventory
 	- Spells
 	- Combat
 	- Equipment
 	- Character background
-- Scheiding tussen equipment en inventory
+- Scheiding tussen equipment en inventory:
+	- Je hebt een gedeelte op je pagina waar je kunt zien wat je op dit moment draagt zoals bijv. kleding en wapens. Hiernaast heb je een aparte plek waar de andere niet gelimiteerde spullen worden bijgehouden.
+- Veel pagina's zijn form-fillable: 
+	- Als je een niet leesbaar handschrift hebt kun je het invullen op de computer en print.
+- Reminders voor vaak gebruikte, maar niet altijd duidelijke informatie. 
+	- Bijvoorbeeld: steps in combat of onderlinge waarde van de verschillende munteenheden.
 
 ## Character Sheets by DnD Beyond
 
@@ -129,7 +139,7 @@ _https://www.dmsguild.com/product/232835_
 - Stats and saving throws zijn gecategoriseerd
 - Scheiding tussen equipment en inventory
 - Informatie is gecategoriseerd
-- Ruimte voor proficencies
+- Ruimte voor proficiencies
 - Naast passive perception ook passive insight
 
 ### Not so good:
@@ -156,8 +166,8 @@ _https://www.dmsguild.com/product/232835_
 <!-- #### What do I notice? -->
 - Veel verschillende versies en niet perse duidelijk wat er is veranderd of verbeterd
 
-## Nelleke Kampert-Boers, - Dungeons and Dragons Nederland
-![Character Sheet by /u/a-perture]({{site.url}}/NellekeKampert.jpg)
+## Nelleke Kampert-Boers - Dungeons and Dragons Nederland
+![Character Sheet by Nelleke Kampert-Boers]({{site.url}}/NellekeKampert.jpg)
 - https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1981342128630647/
 
 ### What do people like about this character sheet: 
@@ -170,9 +180,9 @@ _https://www.dmsguild.com/product/232835_
 
 
 
-## Sources:
+# Sources:
 
 I asked the question at the following places:
-- Dungeons and Dragons Nederland | Facebook: https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1965144543583739/
--  DnD | Reddit: https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/
-- Dungeons and Dragons | Reddit: https://www.reddit.com/r/DungeonsAndDragons/comments/av62b6/5e_custom_character_sheets_which_ones_do_you_use/
+- Dungeons and Dragons Nederland _at_ Facebook: https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1965144543583739/
+-  DnD _at_ Reddit: https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/
+- Dungeons and Dragons _at_ Reddit: https://www.reddit.com/r/DungeonsAndDragons/comments/av62b6/5e_custom_character_sheets_which_ones_do_you_use/
