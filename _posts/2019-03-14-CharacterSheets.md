@@ -133,11 +133,20 @@ Onderzoeksvragen:
 ### Not so good:
 <!-- #### What do I notice? -->
 - Rechterkolom bied informatie tot aan met hoogste level en op eerdere levels is dit nog totaal niet relevant.
+- Bij navraag aan enkele beginnende DnD spelers vinden ze er nog relatief veel informatie op staat.
+
+
+
 
 ## Character Sheets by /u/Corrupted55
 - https://www.reddit.com/r/DnD/comments/3cbw6u/custom_5e_character_sheets_xpost_from_dndnext/
 
+### What do people like about this character sheet: 
+- 
 
+### Not so good:
+<!-- #### What do I notice? -->
+- 
 
 
 ## Nelleke Kampert-Boers, - Dungeons and Dragons Nederland
@@ -151,3 +160,12 @@ Onderzoeksvragen:
 <!-- #### What do I notice? -->
 - Door de artwork is er minder overzicht in het character sheet
 - Niet geschikt voor beginners
+
+
+
+## Sources:
+
+I asked the question at the following places:
+- Dungeons and Dragons Nederland | Facebook: https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1965144543583739/
+-  DnD | Reddit: https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/
+- Dungeons and Dragons | Reddit: https://www.reddit.com/r/DungeonsAndDragons/comments/av62b6/5e_custom_character_sheets_which_ones_do_you_use/
