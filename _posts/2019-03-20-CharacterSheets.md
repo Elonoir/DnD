@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Draft] Character Sheets: What do people use?"
+title: "Character Sheets: What do people use?"
 description: "Character sheets and what people like about them."
 author: jan
 tags: findings, examples
@@ -101,6 +101,21 @@ category: research
 - Werkt niet met alle PDF-readers
 - Je moet erg veel stappen uitvoeren tijdens het gebruik
 - Je moet alsnog veel informatie weten om in het te voeren, maar geeft geen toegankelijke _standaard_ opties.
+
+## Character Sheet by Jonge Strateeg
+
+![Character Sheet by Jonge Strateeg]({{site.url}}/assets/charsheet_strateeg.png)
+
+### What do people like about this character sheet: 
+- Sterk versimpeld
+- Vertaald naar het Nederlands
+- Heeft de keuzes al voor je gemaakt.
+
+### Not so good:
+<!-- #### What do I notice? -->
+- Nog geen tijd besteed aan vormgeving
+- Er ontbreekt veel informatie die je langer of serieus spelen fijn is om te weten
+
 
 ## Character Sheet by /u/a-perture
 ![Character Sheet by /u/a-perture]({{site.url}}/assets/charsheet_a-perture.jpg)
