@@ -8,7 +8,7 @@ category: research
 ---
 
 ![Banner made from Original Character sheet]({{site.url}}/assets/charactersheet_banner_orig.png)
-charactersheet_banner_orig.png
+
 
 <!-- 
 ## Onderzoeksvragen:
