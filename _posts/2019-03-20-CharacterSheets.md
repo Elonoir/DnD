@@ -229,6 +229,6 @@ _https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1981342128630647
 # Sources:
 
 I asked the question at the following places:
-Dungeons and Dragons Nederland _at_ Facebook: https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1965144543583739/  
-DnD _at_ Reddit: https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/  
-Dungeons and Dragons _at_ Reddit: https://www.reddit.com/r/DungeonsAndDragons/comments/av62b6/5e_custom_character_sheets_which_ones_do_you_use/  
+- Dungeons and Dragons Nederland _at_ Facebook: https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1965144543583739/
+- DnD _at_ Reddit: https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/
+- Dungeons and Dragons _at_ Reddit: https://www.reddit.com/r/DungeonsAndDragons/comments/av62b6/5e_custom_character_sheets_which_ones_do_you_use/  
