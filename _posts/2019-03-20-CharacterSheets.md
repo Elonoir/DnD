@@ -214,7 +214,7 @@ _https://www.reddit.com/r/DnD/comments/3cbw6u/custom_5e_character_sheets_xpost_f
 
 ## Nelleke Kampert-Boers - Dungeons and Dragons Nederland
 ![Character Sheet by Nelleke Kampert-Boers]({{site.url}}/assets/NellekeKampert.jpg)
-- https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1981342128630647/
+_https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1981342128630647/_
 
 ### What do people like about this character sheet: 
 - Custom art: hij is zelfgemaakt en daarom extra leuk om mee te spelen.
@@ -229,6 +229,6 @@ _https://www.reddit.com/r/DnD/comments/3cbw6u/custom_5e_character_sheets_xpost_f
 # Sources:
 
 I asked the question at the following places:
-- Dungeons and Dragons Nederland _at_ Facebook: https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1965144543583739/
--  DnD _at_ Reddit: https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/
-- Dungeons and Dragons _at_ Reddit: https://www.reddit.com/r/DungeonsAndDragons/comments/av62b6/5e_custom_character_sheets_which_ones_do_you_use/
+Dungeons and Dragons Nederland _at_ Facebook: https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1965144543583739/  
+DnD _at_ Reddit: https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/  
+Dungeons and Dragons _at_ Reddit: https://www.reddit.com/r/DungeonsAndDragons/comments/av62b6/5e_custom_character_sheets_which_ones_do_you_use/  
