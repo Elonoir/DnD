@@ -36,6 +36,9 @@ category: research
 - Reminders voor vaak gebruikte, maar niet altijd duidelijke informatie. 
 	- Bijvoorbeeld: steps in combat of onderlinge waarde van de verschillende munteenheden.
 
+
+
+
 ## Character Sheets by DnD Beyond
 
 ![DnD Beyond Character sheet]({{site.url}}/assets/dnd-beyond.png)
@@ -61,6 +64,9 @@ category: research
 - Character portrait neemt een kleine rol / bijna onzichtbaar
 - Je moet alsnog veel informatie weten om in het te voeren, geeft geen toegankelijke _standaard_ opties.
 
+
+
+
 ## Character Sheet by DragonsLair.it
 ![DragonsLair Character sheet]({{site.url}}/assets/dragonslair.png)
 <!-- _https://dnd5echaractersheet.us/wp-content/uploads/2018/09/DD-character-sheet-5e-fillable.pdf_ -->
@@ -79,6 +85,10 @@ category: research
 - Kleine reminders op de pagina zoals 1 pp == 100 gp
 - Speciale sectie voor movement, *inclusief* vision.
 - Specifiek vakje voor initiative bonus
+
+
+
+
 
 ## MPMBs character sheet generator
 ![More Purple, More Better Character sheet]({{site.url}}/assets/MPMB.png)
@@ -102,6 +112,10 @@ category: research
 - Je moet erg veel stappen uitvoeren tijdens het gebruik
 - Je moet alsnog veel informatie weten om in het te voeren, maar geeft geen toegankelijke _standaard_ opties.
 
+
+
+
+
 ## Character Sheet by Jonge Strateeg
 
 ![Character Sheet by Jonge Strateeg]({{site.url}}/assets/charsheet_strateeg.png)
@@ -109,12 +123,17 @@ category: research
 ### What do people like about this character sheet: 
 - Sterk versimpeld
 - Vertaald naar het Nederlands
-- Heeft de keuzes al voor je gemaakt.
+- Heeft de keuzes al voor je gemaakt
+- Concrete cijfers ipv abstracte cijfers met weinig concrete betekenissen
+	- Bijvooorbeeld: snelheid van 6 vakjes ipv 30 feet
 
 ### Not so good:
 <!-- #### What do I notice? -->
 - Nog geen tijd besteed aan vormgeving
 - Er ontbreekt veel informatie die je langer of serieus spelen fijn is om te weten
+
+
+
 
 
 ## Character Sheet by /u/a-perture
@@ -134,6 +153,9 @@ category: research
 - Door de artwork is er minder overzicht in het character sheet
 - Stats en skills zijn uit elkaar getrokken. Bijvoorbeeld strength stat en strength saving throw.
 - Minder ruimte
+
+
+
 
 ## Class Character Sheets - The Bundle by Emmet Byrne
 ![Character Sheet by Emmet Byrne]({{site.url}}/assets/EmmetByrne.png)
@@ -167,8 +189,7 @@ _https://www.dmsguild.com/product/232835_
 
 ## Character Sheets by /u/Corrupted55
 ![Character Sheet by /u/corrupted55]({{site.url}}/assets/corrupted.jpg)
-
-- https://www.reddit.com/r/DnD/comments/3cbw6u/custom_5e_character_sheets_xpost_from_dndnext/
+_https://www.reddit.com/r/DnD/comments/3cbw6u/custom_5e_character_sheets_xpost_from_dndnext/_
 
 ### What do people like about this character sheet: 
 - Mooi vormgeving
@@ -181,8 +202,12 @@ _https://www.dmsguild.com/product/232835_
 <!-- #### What do I notice? -->
 - Veel verschillende versies en niet perse duidelijk wat er is veranderd of verbeterd
 
+
+
+
+
 ## Nelleke Kampert-Boers - Dungeons and Dragons Nederland
-![Character Sheet by Nelleke Kampert-Boers]({{site.url}}/NellekeKampert.jpg)
+![Character Sheet by Nelleke Kampert-Boers]({{site.url}}/assets/NellekeKampert.jpg)
 - https://www.facebook.com/groups/DungeonsAndDragonsNL/permalink/1981342128630647/
 
 ### What do people like about this character sheet: 
