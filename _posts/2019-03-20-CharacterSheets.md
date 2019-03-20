@@ -6,9 +6,15 @@ author: jan
 tags: findings, examples
 category: research
 ---
+
+![Banner made from Original Character sheet]({{site.url}}/assets/charactersheet_banner_orig.png)
+charactersheet_banner_orig.png
+
 <!-- 
 ## Onderzoeksvragen:
  -->
+
+
 ## Om welke reden gebruiken spelers custom character sheets?
 - Niet alle informatie die ze willen wordt aangeboden, of op de manier die ze willen
 - Beschikbaarheid van alle speldata (wel of niet legaal)
