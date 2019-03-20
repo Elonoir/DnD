@@ -7,13 +7,13 @@ tags: findings, examples
 category: research
 ---
 
-Onderzoeksvragen:
+## Onderzoeksvragen:
 
-## Om welke reden gebruiken ze deze character sheets?
+### Om welke reden gebruiken spelers deze character sheets?
 - Automatisch uitrekenen van stats 
 - Beschikbaarheid van alle speldata (wel of niet legaal)
 
-## Wat doen de zelf gemaakte character sheets van spelers anders?
+### Wat doen de zelf gemaakte character sheets van spelers anders?
 - DnD Beyond: vermeld mogelijk acties van character
 	- Dit gebeurd op basis van de specifieke mogelijkheden van class.
 - Categoriseren informatie op basis van gebruik.
@@ -25,8 +25,6 @@ Onderzoeksvragen:
 	- Equipment
 	- Character background
 - Scheiding tussen equipment en inventory
-
-## Welke character sheet zal ik 	
 
 ## Character Sheets by DnD Beyond
 
@@ -74,6 +72,7 @@ Onderzoeksvragen:
 
 ## MPMBs character sheet generator
 ![More Purple, More Better Character sheet]({{site.url}}/assets/MPMB.png)
+
 <!-- Opinion:
 - https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/ehbsuo6/ -->
 
@@ -95,7 +94,8 @@ Onderzoeksvragen:
 
 ## Character Sheet by /u/a-perture
 ![Character Sheet by /u/a-perture]({{site.url}}/assets/charsheet_a-perture.jpg)
-- https://www.reddit.com/r/DnD/comments/9hjzei/art_i_made_a_character_sheet/
+
+<!-- - https://www.reddit.com/r/DnD/comments/9hjzei/art_i_made_a_character_sheet/ -->
 <!-- Opinion:
 - https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/ehcpbry/ -->
 
@@ -111,7 +111,9 @@ Onderzoeksvragen:
 - Minder ruimte
 
 ## Class Character Sheets - The Bundle by Emmet Byrne
-- https://www.dmsguild.com/product/232835
+![Character Sheet by Emmet Byrne]({{site.url}}/assets/EmmetByrne.png)
+_https://www.dmsguild.com/product/232835_
+
 <!-- Opinions:
 - https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/ehbsf9u/
 - Linked thread: https://www.reddit.com/r/dndnext/comments/7ubk9l/class_character_sheets_complete_bundle_plus/
@@ -120,7 +122,7 @@ Onderzoeksvragen:
 ### What do people like about this character sheet: 
 - Class specific character sheets
 	- Ruimte voor spellsheets bij spellcasters
-	- Sneak attack bonus voor rogue
+	- Sneak attack bonus voor Rogue
 	- etc.
 - Form-fillable
 <!-- #### What do I notice? -->
@@ -139,15 +141,20 @@ Onderzoeksvragen:
 
 
 ## Character Sheets by /u/Corrupted55
+![Character Sheet by /u/corrupted55]({{site.url}}/assets/corrupted.jpg)
+
 - https://www.reddit.com/r/DnD/comments/3cbw6u/custom_5e_character_sheets_xpost_from_dndnext/
 
 ### What do people like about this character sheet: 
-- 
+- Mooi vormgeving
+- Gecategoriseerde Saving throws and proficiencies
+- Apart spellsheets voor spellcasters
+- Ruimte voor gebruik en usage van spells en pijlen
+- Aparte vakjes voor equipment
 
 ### Not so good:
 <!-- #### What do I notice? -->
-- 
-
+- Veel verschillende versies en niet perse duidelijk wat er is veranderd of verbeterd
 
 ## Nelleke Kampert-Boers, - Dungeons and Dragons Nederland
 ![Character Sheet by /u/a-perture]({{site.url}}/NellekeKampert.jpg)
