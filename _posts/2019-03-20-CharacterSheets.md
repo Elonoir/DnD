@@ -9,13 +9,13 @@ category: research
 <!-- 
 ## Onderzoeksvragen:
  -->
-## Om welke reden gebruiken spelers deze character sheets?
-- Automatisch uitrekenen van stats 
+## Om welke reden gebruiken spelers custom character sheets?
+- Niet alle informatie die ze willen wordt aangeboden, of op de manier die ze willen
 - Beschikbaarheid van alle speldata (wel of niet legaal)
 - Overzicht of selectie in aangeboden informatie
 	- Selectie van getoonde informatie specifiek voor een bepaalde class of een doelgroep als kinderen of beginners.
-- Link met verdiepende informatie: hoef je zelf niet zoveel hoeven te onthouden.
-- Niet alle berekeningen zelf te hoeven doen. 
+- Link met verdiepende informatie: hoef je zelf niet zoveel te onthouden.
+- Niet alle berekeningen zelf te hoeven doen.
 
 ## Wat doen de zelf gemaakte character sheets van spelers anders?
 - Vermelden mogelijke acties van speler en karakter
