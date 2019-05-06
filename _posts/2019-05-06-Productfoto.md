@@ -8,6 +8,6 @@ category: research
 ---
 
 
-![Foto's van mijn producten]({{site.url}}/assets/1_overview.jpg)
+![Foto van mijn producten]({{site.url}}/assets/overview.jpg)
 
 Aan de linkerkant liggen de items voor twee spelers en aan de rechterkant de items voor een GM.

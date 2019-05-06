@@ -14,11 +14,11 @@ Tijdens het onderzoek ben ik erachter gekomen dat veel van de informatie bij Dun
 
 Bij Dungeons & Dragons wordt veel van de informatie via character sheets aan spelers gepresenteerd. Om deze reden heb ik de afgelopen weken gezocht naar manieren om deze informatie beter te presenteren.
 
-[beeld van custom sheets]
+[beeld van de vele custom sheets]
 
 Als onderdeel hiervan ben ik op zoek gegaan naar character sheets gemaakt door andere D&D spelers. Op de door spelers gemaakte character sheets kom je tegen dat veel meer informatie is gegroepeerd. Aan de hand hiervan ben ik gaan kijken hoe ik zelf als ontwerper deze character sheets kan itereren.
 
-[foto van mijn character sheets op tafel]
+![Custom character sheet]({{site.url}}/assets/charactersheet.jpg)
 
 Als eerste ben ik tijdens dit proces erachter gekomen dat dit een erg complex iets betreft. Zie hierboven voor het resultaat van mijn mijn proces. Uiteindelijk heb ik er voor gekozen om vanwege de complexiteit te gaan voor een combinatie van een eigen gekozen voorblad en een bestaande character sheet uit mijn collectie. Waarbij de eerste pagina bestaat uit een overzicht van het character, tweede van combat skills, derde voor spells en laatste voor inventory en notities.
 
@@ -36,7 +36,7 @@ De verschillende kleine onderdelen van producten waar ik een uitprobeersel van h
 
 ## Plan van aanpak
 
-De komende weken ben ik van plan om komende weken wat meer afstand te nemen en te reflecteren op de grote lijn van de ontwerpvraag en het doel waarmee in het proof of concept aan gewerkt moet worden.
+De komende weken ben ik van plan om wat meer afstand te nemen en te reflecteren op de grote lijn van de ontwerpvraag en het doel waarmee in het proof of concept aan gewerkt moet worden.
 
 Op het moment zijn er veel verschillende losse puzzelstukjes die voorbij gaan aan het probleem om met afstuderen op te lossen. Als afstudeerder is het belangrijk om de grote lijn van mijn ontwerpvraag in de gaten en en mijn onderwerp goed te kennen. In dit geval mijn storyline en de starter kit goed te kennen, om deze reden zal ik beginnen om deze nogmaals goed door te nemen.
 
