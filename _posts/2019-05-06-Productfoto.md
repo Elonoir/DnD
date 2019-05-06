@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recapphoto #1: What do I have atm?"
+title: "Photo #1: What do I have atm?"
 description: "Foto van mijn geteste producten"
 author: jan
 tags: summary
