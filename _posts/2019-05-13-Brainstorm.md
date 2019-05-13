@@ -37,10 +37,10 @@ category: research
 
 De aanvang van de brainstorm begon met een introductie van mijn status van mijn ontwerpproces en de conclusies van het onderzoek en bevindingen uit eerste ontwerpen. Hierna ben ik met de deelnemers begonnen met een inventarisatie van de problemen, wat hun meningen zijn over mijn gevonden conclusies
 
+Er zijn tijdens de brainstorm veel verschillende problemen besproken en de voornaamste conclusie is dat informatie die nodig is om te spelen teveel via tekst wordt gepresenteerd. De spelers geven aan dat je veel moet weten, en dat is prima, maar dit kun je op andere, of meerdere, manieren presenteren. Door een aantal ontwerpers bij de sessie komen we al tot de welbekende conclusie: _"Show don't tell."_ 
 
-Er zijn tijdens de brainstorm veel verschillende problemen besproken, maar waar al deze problemen op neerkomen is dat alle informatie die je nodig hebt om te spelen via tekst wordt gepresenteerd. De speler geven aan dat je inderdaad veel moet weten, maar dit ook op andere manieren kunt leren. Door het aantal ontwerpers bij de sessie kwamen we al tot de welbekende conclusie: _"Show don't tell."_ 
+Net als in mijn eigen bevinden zijn de deelnemers van de brainstorm het er mee eens dat veel van de informatie die op je afkomt niet direct relevant tijdens het spel en het ... idee is om de informatie gefaseerd te introduceren.
 
-Het spel bestaat uit veel informatie, maar op dit moment moet je van te voren zoveel verschillende info lezen
  - faseren van informatie
  	- koppelen aan de dingen die je gaat goed tijdens de sessie
  - visualiseren van je dingen die je moet leren:
@@ -51,11 +51,16 @@ Het spel bestaat uit veel informatie, maar op dit moment moet je van te voren zo
 
 ## Ideeën
  - Character passport
- - 
- - 
- - 
- - 
- - 
-
+ - Geillustreerde character sheet
+ - Interactie applicatie waar je onderdelen aan kunt klikken en dit dan de jusite infor geeft.
+ - Deck met kaarten
+ - Mapje waarin je je character opbouwt, waarbij kaartjes vervangen worden als de informatie er op verandert.
+ - Introductie film van je character, mechanics en hoe deze speelt
+ - Stripverhaal met verhaal van je character
+ - Tutorial campagne met veel succes ervaringen om snel en positief het spel te leren. 
+ - Moeilijkheidsgraad bij verschillende characters
+ - Quest cards, zowel voor DM en speler
+ - ILLUSTRATIES!
+ - DM App met stappen en checklist
 
 ## Uitwerking - Player Board
