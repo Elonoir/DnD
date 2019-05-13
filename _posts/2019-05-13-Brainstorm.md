@@ -26,7 +26,17 @@ category: research
 ![Procesfoto Brainstorm]({{site.url}}/assets/brainstorm/brainstorm_15.jpg)
 ![Procesfoto Brainstorm]({{site.url}}/assets/brainstorm/brainstorm_16.jpg)
 
-## Problemen
+## Introductie
+
+
+[ De redenen voor de brainstorm:
+	- Of deelnemers zich kunnen vinden in mijn voorlopige conclusies
+	- Focus aan brengen in de verschillende ontwerpen en bevindingen
+	- Collectief ontwerpen en maken van concepten:
+		- Welke oplossingen vormen vinden de spelers zelf: aka welke problemen constateren ze en manier vinden ze om hier mee te werken. ]
+
+De aanvang van de brainstorm begon met een introductie van mijn status van mijn ontwerpproces en de conclusies van het onderzoek en bevindingen uit eerste ontwerpen. Hierna ben ik met de deelnemers begonnen met een inventarisatie van de problemen, wat hun meningen zijn over mijn gevonden conclusies
+
 
 Er zijn tijdens de brainstorm veel verschillende problemen besproken, maar waar al deze problemen op neerkomen is dat alle informatie die je nodig hebt om te spelen via tekst wordt gepresenteerd. De speler geven aan dat je inderdaad veel moet weten, maar dit ook op andere manieren kunt leren. Door het aantal ontwerpers bij de sessie kwamen we al tot de welbekende conclusie: _"Show don't tell."_ 
 
