@@ -11,6 +11,7 @@ category: research
 ![Procesfoto Brainstorm]({{site.url}}/assets/brainstorm/brainstorm_1.jpg)
 ![Procesfoto Brainstorm]({{site.url}}/assets/brainstorm/brainstorm_2.jpg)
 ![Procesfoto Brainstorm]({{site.url}}/assets/brainstorm/brainstorm_3.jpg)
+![Procesfoto Brainstorm]({{site.url}}/assets/brainstorm/brainstorm_3b.jpg)
 ![Procesfoto Brainstorm]({{site.url}}/assets/brainstorm/brainstorm_4.jpg)
 ![Procesfoto Brainstorm]({{site.url}}/assets/brainstorm/brainstorm_5.jpg)
 ![Procesfoto Brainstorm]({{site.url}}/assets/brainstorm/brainstorm_6.jpg)
