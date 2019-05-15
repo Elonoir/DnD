@@ -7,8 +7,6 @@ tags: summary
 category: research
 ---
 
-<!-- ![Procesfoto Brainstorm 1]({{site.url}}/assets/brainstorm/brainstorm_1.jpeg) -->
-<!-- ![Procesfoto Brainstorm 3]({{site.url}}/assets/brainstorm/brainstorm_3.jpeg) -->
 ![Procesfoto Brainstorm 3b]({{site.url}}/assets/brainstorm/brainstorm_3b.jpg)
 
 ## Introductie
