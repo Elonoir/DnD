@@ -70,8 +70,18 @@ Dit is idee is gebasseerd op het spelerbord uit het spel zombicide. In dit spel 
 
 ![Procesfoto Brainstorm 16]({{site.url}}/assets/brainstorm/brainstorm_16.jpeg)
 
+## Conclusie
 
-### Overige foto's:
+Als voornaamste conclusie's uit de workshop kan ik het volgende meenemen:
+ - Over algemeen eens met de door mij gevonden conslusies.
+ - De delen ontworpen voor de DM vonden ze indrukwekkend, ook al zijn ze voornamelijk spelers.
+
+ Maar als voornaamste twee conclusies:
+ - Er wordt vanuit de officiele resources veel te weinig gevisualiseerd. Verbeter door te visualiseren: _Show, don't tell_. 
+ - Begin met meer focus op de spelers ipv heel veel problemen tegelijk op proberen te lossen. Dit is mogelijk door aanwezigheid van spelers tijdens de workshop en geen DM's, maar in de praktijk bestaat grootste deel van de _playerbase_ uit spelers en niet uit Dungeon Masters.
+ - Ga verder met het uitwerken van een spelerbord; maak het niet te complex voor jezelf en begin met een super simpele speler: een fighter zonder al te veel abilities. Kijk goed naar welke dingen die je er wel of niet op wilt plaatsen en neem de filters uit de brainstorm mee voor je selectie wat hiervoor nodig is. Werk daarna aan het versterken door middel van de andere concepten en het toevoegen van delen voor bijvoorbeeld de wizards of DM.
+
+## Overige foto's:
 
 ![Procesfoto Brainstorm 14]({{site.url}}/assets/brainstorm/brainstorm_14.jpeg)
 Eerste geconstateerde problemen en conclusie van brainstormfase. 
