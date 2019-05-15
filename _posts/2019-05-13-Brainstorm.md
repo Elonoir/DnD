@@ -19,7 +19,7 @@ Er zijn tijdens de brainstorm veel verschillende problemen besproken en de voorn
 
 Net als in mijn eigen bevinden zijn de deelnemers van de brainstorm het er mee eens dat veel van de informatie die op je afkomt niet direct relevant tijdens het spel en het ... idee is om de informatie gefaseerd te introduceren.
 
- - faseren van informatie 
+ - faseren van informatie  
  	- koppelen aan de dingen die je gaat goed tijdens de sessie  
  - visualiseren van je dingen die je moet leren:  
  	- hoe ziet je character er uit? wat kan hij en hoe zou je hem kunnen spelen  
