@@ -14,11 +14,8 @@ category: research
 ![Procesfoto Brainstorm 8]({{site.url}}/assets/brainstorm/brainstorm_8.jpeg)
 ![Procesfoto Brainstorm 9]({{site.url}}/assets/brainstorm/brainstorm_9.jpeg)
 ![Procesfoto Brainstorm 10]({{site.url}}/assets/brainstorm/brainstorm_10.jpeg)
-![Procesfoto Brainstorm 11]({{site.url}}/assets/brainstorm/brainstorm_11.jpeg)
 ![Procesfoto Brainstorm 12]({{site.url}}/assets/brainstorm/brainstorm_12.jpeg)
 ![Procesfoto Brainstorm 13]({{site.url}}/assets/brainstorm/brainstorm_13.jpeg)
-![Procesfoto Brainstorm 14]({{site.url}}/assets/brainstorm/brainstorm_14.jpeg)
-![Procesfoto Brainstorm 15]({{site.url}}/assets/brainstorm/brainstorm_15.jpeg)
 ![Procesfoto Brainstorm 16]({{site.url}}/assets/brainstorm/brainstorm_16.jpeg)
 
 ## Introductie
@@ -76,3 +73,18 @@ Best gewaardeerde ideeën:
 ![Procesfoto Brainstorm 7]({{site.url}}/assets/brainstorm/brainstorm_7.jpeg)
 
 ### Player Board
+
+
+
+
+### Overige foto's:
+
+
+![Procesfoto Brainstorm 14]({{site.url}}/assets/brainstorm/brainstorm_14.jpeg)
+Eerste geconstateerde problemen en conclusie van brainstormfase. 
+
+![Procesfoto Brainstorm 15]({{site.url}}/assets/brainstorm/brainstorm_15.jpeg)
+Brainstorm
+
+![Procesfoto Brainstorm 11]({{site.url}}/assets/brainstorm/brainstorm_11.jpeg)
+Uitwerking van mapje met quest cards, inventory e.d. Dit is idee is geillustreerd met spell cards omdat deze voorhande waren. 
