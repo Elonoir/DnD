@@ -10,10 +10,6 @@ category: research
 <!-- ![Procesfoto Brainstorm 1]({{site.url}}/assets/brainstorm/brainstorm_1.jpeg) -->
 <!-- ![Procesfoto Brainstorm 3]({{site.url}}/assets/brainstorm/brainstorm_3.jpeg) -->
 ![Procesfoto Brainstorm 3b]({{site.url}}/assets/brainstorm/brainstorm_3b.jpg)
-![Procesfoto Brainstorm 4]({{site.url}}/assets/brainstorm/brainstorm_4.jpeg)
-![Procesfoto Brainstorm 8]({{site.url}}/assets/brainstorm/brainstorm_8.jpeg)
-![Procesfoto Brainstorm 9]({{site.url}}/assets/brainstorm/brainstorm_9.jpeg)
-![Procesfoto Brainstorm 10]({{site.url}}/assets/brainstorm/brainstorm_10.jpeg)
 ![Procesfoto Brainstorm 12]({{site.url}}/assets/brainstorm/brainstorm_12.jpeg)
 ![Procesfoto Brainstorm 13]({{site.url}}/assets/brainstorm/brainstorm_13.jpeg)
 ![Procesfoto Brainstorm 16]({{site.url}}/assets/brainstorm/brainstorm_16.jpeg)
@@ -55,6 +51,7 @@ Net als in mijn eigen bevinden zijn de deelnemers van de brainstorm het er mee e
  - ILLUSTRATIES!
  - DM App met stappen en checklist
 
+ Omdat dit veel tijd kost om uit te werken zal ik voor nu deze concepter onuitgelegd laten, en me op het snel af maken van deze blogpost zodat ik aan mijn concept kan verder werken.
 
 
 ![Procesfoto Brainstorm 6]({{site.url}}/assets/brainstorm/brainstorm_6.jpeg)
@@ -74,7 +71,13 @@ Best gewaardeerde ideeën:
 
 ### Player Board
 
+![Voorbeeld zombicide]({{site.url}}/assets/brainstorm/zombicide.jpg)
 
+Als concept om verder uit te werken is er gekozen voor het snel vormgeven van een player board. De character sheet is het centrale punt waarmee spelers informatie uit het spel tot zich nemen en met een spelerbord creëer je een platform waar samen met andere concepten je dit op een nieuwe manier kan presenteren. 
+
+Dit is idee is gebasseerd op het spelerbord uit het spel zombicide. In dit spel speel je ook met een karakter net als in D&D. Al gaat dit om een simpelere variant. Vanwege de complixiteit van het hebben van een D&D character zien de deelnemers potentie in een combinatie van de verschillende ideeën.
+
+![Procesfoto Brainstorm 10]({{site.url}}/assets/brainstorm/brainstorm_10.jpeg)
 
 
 ### Overige foto's:
@@ -87,4 +90,8 @@ Eerste geconstateerde problemen en conclusie van brainstormfase.
 Brainstorm
 
 ![Procesfoto Brainstorm 11]({{site.url}}/assets/brainstorm/brainstorm_11.jpeg)
-Uitwerking van mapje met quest cards, inventory e.d. Dit is idee is geillustreerd met spell cards omdat deze voorhande waren. 
+Uitwerking van mapje met quest cards, inventory e.d. Dit is idee is geillustreerd met spell cards omdat deze voorhande waren.
+
+![Procesfoto Brainstorm 4]({{site.url}}/assets/brainstorm/brainstorm_4.jpeg)
+
+![Procesfoto Brainstorm 8]({{site.url}}/assets/brainstorm/brainstorm_8.jpeg)
