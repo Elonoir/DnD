@@ -10,20 +10,13 @@ category: research
 <!-- ![Procesfoto Brainstorm 1]({{site.url}}/assets/brainstorm/brainstorm_1.jpeg) -->
 <!-- ![Procesfoto Brainstorm 3]({{site.url}}/assets/brainstorm/brainstorm_3.jpeg) -->
 ![Procesfoto Brainstorm 3b]({{site.url}}/assets/brainstorm/brainstorm_3b.jpg)
-![Procesfoto Brainstorm 12]({{site.url}}/assets/brainstorm/brainstorm_12.jpeg)
-![Procesfoto Brainstorm 13]({{site.url}}/assets/brainstorm/brainstorm_13.jpeg)
 ![Procesfoto Brainstorm 16]({{site.url}}/assets/brainstorm/brainstorm_16.jpeg)
 
 ## Introductie
 
+Om mijn proces verder te helpen heb ik met een aantal deelnemers uit de gebruikerstesten en mijn eigen D&D groep een brainstorm georganiseerd. Als beoogd eindresultaat voor deze workshop heb ik graag inzicht in of deelnemers zich kunnen vinden in mijn voorlopige conclusies. Als laatste wil ik de door middel van een aantal de spelers bedachte concepten focus aanbrengen in de eerder door mij bedachte concepten.
 
-[ De redenen voor de brainstorm:
-	- Of deelnemers zich kunnen vinden in mijn voorlopige conclusies
-	- Focus aan brengen in de verschillende ontwerpen en bevindingen
-	- Collectief ontwerpen en maken van concepten:
-		- Welke oplossingen vormen vinden de spelers zelf: aka welke problemen constateren ze en manier vinden ze om hier mee te werken. ]
-
-De aanvang van de brainstorm begon met een introductie van mijn status van mijn ontwerpproces en de conclusies van het onderzoek en bevindingen uit eerste ontwerpen. Hierna ben ik met de deelnemers begonnen met een inventarisatie van de problemen, wat hun meningen zijn over mijn gevonden conclusies
+De aanvang van de brainstorm begon met een introductie van mijn status van mijn ontwerpproces en de conclusies van het onderzoek en bevindingen uit eerste ontwerpen. Hierna ben ik met de deelnemers begonnen met een inventarisatie van de problemen, wat hun meningen zijn over mijn gevonden conclusies en ze nog toevoegingen hebben op basis van hun ervaringen.
 
 Er zijn tijdens de brainstorm veel verschillende problemen besproken en de voornaamste conclusie is dat informatie die nodig is om te spelen teveel via tekst wordt gepresenteerd. De spelers geven aan dat je veel moet weten, en dat is prima, maar dit kun je op andere, of meerdere, manieren presenteren. Door een aantal ontwerpers bij de sessie komen we al tot de welbekende conclusie: _"Show don't tell."_ 
 
@@ -67,7 +60,6 @@ Best gewaardeerde ideeën:
  - Character sheet (voor + achterkant)
  - spell cards (voor + achterkant)
 
-![Procesfoto Brainstorm 7]({{site.url}}/assets/brainstorm/brainstorm_7.jpeg)
 
 ### Player Board
 
@@ -82,6 +74,7 @@ Dit is idee is gebasseerd op het spelerbord uit het spel zombicide. In dit spel 
 
 ### Overige foto's:
 
+![Procesfoto Brainstorm 7]({{site.url}}/assets/brainstorm/brainstorm_7.jpeg)
 
 ![Procesfoto Brainstorm 14]({{site.url}}/assets/brainstorm/brainstorm_14.jpeg)
 Eerste geconstateerde problemen en conclusie van brainstormfase. 
