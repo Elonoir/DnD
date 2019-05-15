@@ -73,10 +73,6 @@ Dit is idee is gebasseerd op het spelerbord uit het spel zombicide. In dit spel 
 
 ### Overige foto's:
 
-![Procesfoto Brainstorm 7]({{site.url}}/assets/brainstorm/brainstorm_7.jpeg)
-
-![Procesfoto Brainstorm 10]({{site.url}}/assets/brainstorm/brainstorm_10.jpeg)
-
 ![Procesfoto Brainstorm 14]({{site.url}}/assets/brainstorm/brainstorm_14.jpeg)
 Eerste geconstateerde problemen en conclusie van brainstormfase. 
 
@@ -89,3 +85,7 @@ Uitwerking van mapje met quest cards, inventory e.d. Dit is idee is geillustreer
 ![Procesfoto Brainstorm 4]({{site.url}}/assets/brainstorm/brainstorm_4.jpeg)
 
 ![Procesfoto Brainstorm 8]({{site.url}}/assets/brainstorm/brainstorm_8.jpeg)
+
+![Procesfoto Brainstorm 7]({{site.url}}/assets/brainstorm/brainstorm_7.jpeg)
+
+![Procesfoto Brainstorm 10]({{site.url}}/assets/brainstorm/brainstorm_10.jpeg)
