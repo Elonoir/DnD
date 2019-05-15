@@ -27,7 +27,10 @@ Net als in mijn eigen bevinden zijn de deelnemers van de brainstorm het er mee e
  	- spells; wat zijn ze en wat doen ze nu echt?  
  	- Voor de DM: hoe zien de omgevingen er uit  
 
-## Ideeën
+## Brainstorm
+
+Tijdens de brainstorm kwamen de deelnemers met de volgende ideeën. Omdat het veel tijd kost om deze ideeën individueel toe te lichten zal ik dit voor nu laten en waar nodig de relevante concepten tijdens de volgende chapter bespreken.
+
  - Character passport
  - Geillustreerde character sheet
  - Interactie applicatie waar je onderdelen aan kunt klikken en dit dan de jusite infor geeft.
@@ -41,7 +44,6 @@ Net als in mijn eigen bevinden zijn de deelnemers van de brainstorm het er mee e
  - ILLUSTRATIES!
  - DM App met stappen en checklist
 
- Omdat dit veel tijd kost om uit te werken zal ik voor nu deze concepter onuitgelegd laten, en me op het snel af maken van deze blogpost zodat ik aan mijn concept kan verder werken.
 
 
 ![Procesfoto Brainstorm 6]({{site.url}}/assets/brainstorm/brainstorm_6.jpeg)
