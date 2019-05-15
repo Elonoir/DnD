@@ -10,7 +10,6 @@ category: research
 <!-- ![Procesfoto Brainstorm 1]({{site.url}}/assets/brainstorm/brainstorm_1.jpeg) -->
 <!-- ![Procesfoto Brainstorm 3]({{site.url}}/assets/brainstorm/brainstorm_3.jpeg) -->
 ![Procesfoto Brainstorm 3b]({{site.url}}/assets/brainstorm/brainstorm_3b.jpg)
-![Procesfoto Brainstorm 16]({{site.url}}/assets/brainstorm/brainstorm_16.jpeg)
 
 ## Introductie
 
@@ -69,12 +68,14 @@ Als concept om verder uit te werken is er gekozen voor het snel vormgeven van ee
 
 Dit is idee is gebasseerd op het spelerbord uit het spel zombicide. In dit spel speel je ook met een karakter net als in D&D. Al gaat dit om een simpelere variant. Vanwege de complixiteit van het hebben van een D&D character zien de deelnemers potentie in een combinatie van de verschillende ideeën.
 
-![Procesfoto Brainstorm 10]({{site.url}}/assets/brainstorm/brainstorm_10.jpeg)
+![Procesfoto Brainstorm 16]({{site.url}}/assets/brainstorm/brainstorm_16.jpeg)
 
 
 ### Overige foto's:
 
 ![Procesfoto Brainstorm 7]({{site.url}}/assets/brainstorm/brainstorm_7.jpeg)
+
+![Procesfoto Brainstorm 10]({{site.url}}/assets/brainstorm/brainstorm_10.jpeg)
 
 ![Procesfoto Brainstorm 14]({{site.url}}/assets/brainstorm/brainstorm_14.jpeg)
 Eerste geconstateerde problemen en conclusie van brainstormfase. 
