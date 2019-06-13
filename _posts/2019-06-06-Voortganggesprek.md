@@ -28,6 +28,9 @@ Als van deze volgende versie heb ik een vriendin, Pamela (@SuperPamTastic) gevra
 
 
 ### Game to Grow
+
+![Procesfoto Brainstorm 3b]({{site.url}}/assets/gametogrow.jpg)
+
 Naast het werken aan mijn eigen producten heb ik tussen deze werkzaamheden door ook een gesprek gehad met Adam Davis van Game to Grow, de mensen achter de ontwikkeling van Critical Core. Dit is een tabletop roleplaying game specifiek voor het helpen van kinderen en jeugd met autisme. Omdat ze hiervoor op het moment Dungeons & Dragons gebruiken was ik nieuwsgierig naar hun ontwerpkeuzes. Vooral omdat kinderen, en volwassenen, met autisme al problemen hebben met informatieverwerking en dat ik als voornaamste probleem in mijn onderzoek ben tegengekomen. 
 
 Tijdens het gesprek hebben we het over veel verschillende onderdelen gehad, zoals bijvoorbeeld het wel of niet tracken van pijlen. Omdat de didaktische en pedagogische werking van het concept bij hun centraal staat focussen ze op elementen die iets toevoegen aan het verhaal. Om deze reden worden laten ze veel details en onderdelen weg die niets toevoegen aan de ervaring. Niemand zegt ooit tijdens het spelen van D&D: _"Goh, wat leuk dat ik bezig ben geweest om 20 pijlen te kopen!"_. Zo zijn er in D&D meerdere elementen die er misschien later voor een ervaren speler toe doen, maar voor een beginnende speler zorgen voor teveel complexiteit en weggelaten kunnen worden.
