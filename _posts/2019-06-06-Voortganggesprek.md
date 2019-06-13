@@ -77,12 +77,12 @@ Exploratie vorm kiezen:
 	- Workshop met Q&A/Ask the developer
 
 Volgende veris van playerboard en booklet:
- 	- Werken aan de lay-out:
- 		- staan alle dingen er op?
- 		- En waar?
- 			- Steps of combat
- 	- Illustraties rond.
- 		- Extra briefing en afspraken met Pam.
+- Werken aan de lay-out:
+	- staan alle dingen er op?
+	- En waar?
+		- Steps of combat
+- Illustraties rond.
+	- Extra briefing en afspraken met Pam.
 
 Usertest met 3 tot 5 speler met hetzelfde spelerbord.
  	- Doe een test met 4 fighters zodat spelers ook niet bij elkaar af gaan kijken. 
