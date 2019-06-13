@@ -58,12 +58,12 @@ In het begin heb ik al wel duidelijk gemaakt dat schrijven van lange teksten nie
 
 Zelf heb ik aangegeven dat het mij dan wel interessant lijkt om een workshop te geven. Dit is helaas meer de vorm die past bij een _Proof of Concept_ omdat dit werking van mijn concept laat zien. Wel zou dit met eerdere idee gecombineerd kunnen worden. Bijvoorbeeld voorafgaand of achteraf van de Q&A of interview waarmee mijn overwegingen en stappen duidelijk worden. Dit is op het moment de vorm waar mijn voorkeur naar uit gaat en ik met mijn kwaliteiten ook snel zou kunnen organiseren. 
 
- - Besproken van de vorm:
+- Besproken van de vorm:
  	- Video maken: Jamel
  	- Director's Cut: His interview
  	- Presentatie
  	- Workshop + Q&A
- - Onderdelen:
+- Onderdelen:
  	- Voortgang:
 	 	- Stappen hier na: 
 	 		- Wat als de spelers geen beginners meer zijn?
