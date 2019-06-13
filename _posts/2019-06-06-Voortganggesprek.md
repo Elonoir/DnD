@@ -12,17 +12,17 @@ category: gesprek
 
 Bij het afgelopen groenlichtgesprek was ik niet aanwezig. De oorzaken hier van heb ik tijdens mijn gesprek met Thijs besproken. Thijs heeft aangegeven dat hij een patroon herkent waarbij als het concreet wordt ik vast begin te lopen. In mijn toelichting geef ik aan dat dit moeite heb om swtich van theoretisch te maken en dit vaak de grootste stressmomenten zijn, met de stress van een groenlichtgesprek er bovenop.
 
- - Exploratie
+Na kort bespreken van de loop van het proces en de problemen hierbij hebben we het gehad over mijn voortgang (player board, gesprek met Game to Grow en usertest) en de exploratie.
 
 ### Vormen van player board
 
-[plaatje van papier/kartonnen versie met stiftschetsen]
+![Custom character sheet]({{site.url}}/assets/board01paper.jpg)
 
 Na de brainstorm had ik een grove versie van hoe het playerboard er zou moeten gaan zien. Hier ben ik vervolgens adhv van de player sheets een verder uitgewerkte versie van gaan maken. De eerste poging was direct vanaf de player sheet, maar doordat dit niet werkte en ik hierbij snel het overzicht verloor heb ik bij de hierop volgende poging eerst een in mijn procesboek een overzicht gemaakt. Het resultaat van de eerste versie was bovenstaande grove schets met stift op karton.
 
 Deze eerste schets heb ik met enkele vrienden (Pamela en Gilian) uit mijn eigen D&D groep besproken. Om uiteindelijk, en hopelijk, een testbare versie te hebben tijdens mijn usertest samen met Nina. Op basis van deze gesprek heb ik enkele aanpassingen gemaakt in de zichtbare onderrdelen. Dit is voornamelijk op basis van het gesprek met Gillian.
 
-[Screenshot van eerste illustrator versie]
+![Custom character sheet]({{site.url}}/assets/board01screenshot.png)
 
 Als van deze volgende versie heb ik een vriendin, Pamela (@SuperPamTastic) gevraagd enkele illustraties te maken. De eerste schetsen van deze illustraties zijn in de digitale versie terecht gekomen. Hiernaast waren deze gesprekken erg fijn om grip te krijgen op mijn eigen proces. Zo weet ik veel beter waar ik sta en wordt ik niet zo nerveus omdat mijn progress nog best ok is.
 
@@ -66,7 +66,6 @@ Zelf heb ik aangegeven dat het mij dan wel interessant lijkt om een workshop te 
 	 		- Wat als de spelers geen beginners meer zijn?
 	 		- Wat zijn vervolgenstappen na deze fase van het ontwerp? (at zou ik verbeteren, of waar ga ik mee door)	
 	 			- Voor volgende iets meer geavanceerde spelers
-	- 
 
 ## To Do:
 
