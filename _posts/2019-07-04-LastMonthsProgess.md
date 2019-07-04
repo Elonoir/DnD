@@ -10,12 +10,6 @@ category: progress
 Some quick photos of my last month of progress. Hopefully the pictures speak for themselves.
 
 
-![Quickprogress Photo update #1]({{site.url}}/assets/progress/1.jpg)
-
-![Quickprogress Photo update #2]({{site.url}}/assets/progress/2.jpg)
-
-![Quickprogress Photo update #3]({{site.url}}/assets/progress/3.jpg)
-
 ![Quickprogress Photo update #4]({{site.url}}/assets/progress/4.jpg)
 
 ![Quickprogress Photo update #5]({{site.url}}/assets/progress/5.jpg)
@@ -47,6 +41,12 @@ Some quick photos of my last month of progress. Hopefully the pictures speak for
 ![Quickprogress Photo update #18]({{site.url}}/assets/progress/18.jpg)
 
 ![Quickprogress Photo update #19]({{site.url}}/assets/progress/19.jpg)
+
+![Quickprogress Photo update #1]({{site.url}}/assets/progress/1.jpg)
+
+![Quickprogress Photo update #2]({{site.url}}/assets/progress/2.jpg)
+
+![Quickprogress Photo update #3]({{site.url}}/assets/progress/3.jpg)
 
 ![Quickprogress Photo update #20]({{site.url}}/assets/progress/20.jpg)
 
