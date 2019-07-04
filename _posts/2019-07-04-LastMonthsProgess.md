@@ -9,23 +9,6 @@ category: progress
 
 Some quick photos of my last month of progress. Hopefully the pictures speak for themselves.
 
-
-![Quickprogress Photo update #4]({{site.url}}/assets/progress/4.jpg)
-
-![Quickprogress Photo update #5]({{site.url}}/assets/progress/5.jpg)
-
-![Quickprogress Photo update #6]({{site.url}}/assets/progress/6.jpg)
-
-![Quickprogress Photo update #7]({{site.url}}/assets/progress/7.jpg)
-
-![Quickprogress Photo update #8]({{site.url}}/assets/progress/8.jpg)
-
-![Quickprogress Photo update #9]({{site.url}}/assets/progress/9.jpg)
-
-![Quickprogress Photo update #10]({{site.url}}/assets/progress/10.jpg)
-
-![Quickprogress Photo update #11]({{site.url}}/assets/progress/11.jpg)
-
 ![Quickprogress Photo update #12]({{site.url}}/assets/progress/12.jpg)
 
 ![Quickprogress Photo update #13]({{site.url}}/assets/progress/13.jpg)
@@ -65,6 +48,22 @@ Some quick photos of my last month of progress. Hopefully the pictures speak for
 ![Quickprogress Photo update #28]({{site.url}}/assets/progress/28.jpg)
 
 ![Quickprogress Photo update #29]({{site.url}}/assets/progress/29.jpg)
+
+![Quickprogress Photo update #4]({{site.url}}/assets/progress/4.jpg)
+
+![Quickprogress Photo update #5]({{site.url}}/assets/progress/5.jpg)
+
+![Quickprogress Photo update #6]({{site.url}}/assets/progress/6.jpg)
+
+![Quickprogress Photo update #7]({{site.url}}/assets/progress/7.jpg)
+
+![Quickprogress Photo update #8]({{site.url}}/assets/progress/8.jpg)
+
+![Quickprogress Photo update #9]({{site.url}}/assets/progress/9.jpg)
+
+![Quickprogress Photo update #10]({{site.url}}/assets/progress/10.jpg)
+
+![Quickprogress Photo update #11]({{site.url}}/assets/progress/11.jpg)
 
 ![Quickprogress Photo update #30]({{site.url}}/assets/progress/30.jpg)
 
