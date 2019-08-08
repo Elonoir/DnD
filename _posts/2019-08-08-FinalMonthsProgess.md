@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One month of Progress"
+title: "Last(?) month of Progress"
 description: "Some quick photos of all my progress of the last month or so."
 author: jan
 tags: progress
@@ -79,13 +79,13 @@ Some quick photos of my final month of progress. The pictures should speak for t
 
 ![Quickprogress Photo update #34]({{site.url}}/assets/progress2/35.jpg)
 
-![Quickprogress Photo update #35]({{site.url}}/assets/progress2/36.jpg)
+<!-- ![Quickprogress Photo update #35]({{site.url}}/assets/progress2/36.jpg)
 
-![Quickprogress Photo update #36]({{site.url}}/assets/progress2/37.jpg)
+![Quickprogress Photo update #36]({{site.url}}/assets/progress2/37.jpg) -->
 
 ![Quickprogress Photo update #37]({{site.url}}/assets/progress2/38.jpg)
 
-![Quickprogress Photo update #38]({{site.url}}/assets/progress2/39.jpg)
+<!-- ![Quickprogress Photo update #38]({{site.url}}/assets/progress2/39.jpg) -->
 
 ![Quickprogress Photo update #39]({{site.url}}/assets/progress2/40.jpg)
 
