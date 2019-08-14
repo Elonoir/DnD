@@ -17,19 +17,13 @@ Dungeons and Dragons (DnD) is a difficult game with many different rules to gras
 
 ## Word of thanks
 
-jonge strateeg
-zeker niet eva
-Game to grow
-ruben
-testgroep en alle mensen van brainstorm
-docenten
-pamela
-makersbase breda
-sven en karlijn
-nina
+Above I talk about my own process during this graduation project, but I also want to acknowledge the help I got from others. First there is ofcourse the help of my graduation supervisor Thijs Eerens. Who guided me through this project, even after me not showing up a couple of times.
 
-Eerdere hulp van docenten en begeleiding bij Avans (and life)
-	Wander, Esther, Othmar. Kathy etc.
+After this there is the help of different companies that didn't have to, but where more than willing to help me as well. There is De jonge strateeg who I could join during a couple of workshops for beginners and Game to Grow who took time for a free consultation to offer me helpful advice. And of course to never forget the Makersbase and Karlijn Muller who offered me free space, consultation and unlimited work time on the machines after Avans closed for summer.
+
+Next to thank are my friends, colleague-students and strangers who helped me during this time by being there as test subjects, participants in brainstorm or in the case of Ruben Klein and Eva Blom: helped me produce all different kind of stuff and gave me a kick in the ass when I needed one.
+
+Last, and definitely not least, I had a lot of help from people outside of this project to get me here in the first place. I wouldn't even possibly still be at CMD without the help of Othmar Schimmel, Wander Eikelboom, Esther van Dijk or Käthy Broeren in the first place.
 
 ## Extra information
 
@@ -52,7 +46,6 @@ Vox. (2018, June 14). _Dungeons and Dragons, explained._ Retrieved from <https:/
 
 ### Inspiration
 
--u-Robbrauen. (n.d.). Lost Mine of Phandelver - Flowchart for Main and Side Quests - Colorcoded (Spoilers). Retrieved August 14, 2019, from <https://www.reddit.com/r/dndnext/comments/2daxov/lost_mine_of_phandelver_flowchart_for_main_and/>  
 A-perture. (n.d.). [Art] I made a character sheet! Retrieved August 14, 2019, from <https://www.reddit.com/r/DnD/comments/9hjzei/art_i_made_a_character_sheet/>  
 Apollonaut13. (n.d.). Massive DM's Toolkit - Online Resources. Retrieved August 14, 2019, from <https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources/>  
 Beedrill330. (n.d.). Quest Cards - Waterdeep Dragon Heist. Retrieved August 14, 2019, from <https://drive.google.com/file/d/1sNgdnqboMVPqnwVt1PYIQHJL2u8bOKho/view>  
@@ -85,6 +78,7 @@ PricklyPickleRick. (n.d.). I created spell slot and class ability trackers for t
 PrintableHeroes. (n.d.). Printable Heroes. Retrieved August 14, 2019, from <https://printableheroes.tumblr.com/>  
 Psychic-Smith. (n.d.). 3D Battlemap Follow up. (Same technique used for my last post, but this time it's a tavern!) Looking for requests/suggestions. Retrieved August 14, 2019, from <https://www.reddit.com/r/DnDHomebrew/comments/av27xx/3d_battlemap_follow_up_same_technique_used_for_my/>  
 Remathilis. (2015, July 18). Homebrew - Lost Mines of Phandelver Quest Cards? Come on in! Retrieved from <http://www.enworld.org/forum/showthread.php?356866-Lost-Mines-of-Phandelver-Quest-Cards-Come-on-in!>  
+Robbrauen. (n.d.). Lost Mine of Phandelver - Flowchart for Main and Side Quests - Colorcoded (Spoilers). Retrieved August 14, 2019, from <https://www.reddit.com/r/dndnext/comments/2daxov/lost_mine_of_phandelver_flowchart_for_main_and/>  
 Shapiro. (2019, July 18). Best DM Screen [TOP7 2019] - D&D 5e, PathFinder, etc. Retrieved August 14, 2019, from <https://boardgamesguru.com/best-dm-screen/>  
 Slayer175. (n.d.). Some of my newer players were having trouble keeping track of spell slots/ammunition/death saves, so I made a thing! Early prototype, looking for some feedback. Retrieved August 14, 2019, from <https://www.reddit.com/r/dndnext/comments/62i1ga/some_of_my_newer_players_were_having_trouble/>  
 Start Playing D&D (for free!). (2019, April 12). Retrieved August 14, 2019, from <https://boccobsblog.com/2019/01/23/learn-dd/>  
