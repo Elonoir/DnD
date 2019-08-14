@@ -12,28 +12,28 @@ The following items are things I used, found and collected during my entire grad
 - Item cards by Gamlin777  
 <https://www.reddit.com/r/DnD/comments/4w0zdb/dms_the_lost_mine_of_phandelver_item_cards/>
 
-![Quest Cards by beedrill330: ]({{site.url}}/inspiration/questcards.jpg)
+![Quest Cards by beedrill330: ]({{site.url}}/assets/inspiration/questcards.jpg)
 - Quest Cards by beedrill330:  
 <https://drive.google.com/file/d/1sNgdnqboMVPqnwVt1PYIQHJL2u8bOKho/view>
 
 - Phandelver Quest Cards by Remathilis  
 <http://www.enworld.org/forum/>showthread.php?356866-Lost-Mines-of-Phandelver-Quest-Cards-Come-on-in!
 
-![Character Tent Cards by Web Pickersgill]({{site.url}}/inspiration/webbpickersgill.jpg)
+![Character Tent Cards by Web Pickersgill]({{site.url}}/assets/inspiration/webbpickersgill.jpg)
 - Character Tent Cards by Web Pickersgill  
 <https://www.webbpickersgill.com/gaming/dungeon-master-character-monster-tents/>
 
 - Lost Mine of Phandelver - Recalculate  
 <http://haluz.org/lmop/index.php>
 
-![Character Tent Cards by Web Pickersgill]({{site.url}}/inspiration/dungeonsset.jpg)
+![Character Tent Cards by Web Pickersgill]({{site.url}}/assets/inspiration/dungeonsset.jpg)
 - Class Sets by Deep Dungeon Games  
 <https://www.kickstarter.com/projects/deepdungeongames/deep-dungeon-diving-class-sets>
 
 - D&D Combat Reference sheet by Jennifer Brahm  
 <https://olddungeonmaster.com/2016/02/06/dd-5e-combat-reference-sheet/>
 
-![Action Bottle Caps by /u/Jainith]({{site.url}}/inspiration/jainith.jpg)
+![Action Bottle Caps by /u/Jainith]({{site.url}}/assets/inspiration/jainith.jpg)
 - Action Bottle Caps by /u/Jainith  
 <https://www.reddit.com/r/DnD/comments/4ffsud/5e_action_cards_an_action_economy_learning_tool/>d2957rq/
 
@@ -43,12 +43,12 @@ The following items are things I used, found and collected during my entire grad
 - D&D 5e Quick Reference Cards by Crobi @ Github  
 <https://crobi.github.io/dnd5e-quickref/preview/quickref.html>
 
-![Timetracker by /u/iansjsikes]({{site.url}}/inspiration/ianjsikes.jpg)
+![Timetracker by /u/iansjsikes]({{site.url}}/assets/inspiration/ianjsikes.jpg)
 - Timetracker by /u/iansjsikes  
 <https://www.reddit.com/r/DnDIY/comments/audhxo/simple_time_trackerclock_thingy_for_my_dm_screen/>
 
-![Action Cards]({{site.url}}/inspiration/critgames.png)
-![Dice by Critgames]({{site.url}}/inspiration/critgames-dice.png)
+![Action Cards]({{site.url}}/assets/inspiration/critgames.png)
+![Dice by Critgames]({{site.url}}/assets/inspiration/critgames-dice.png)
 
 - RPG Player Kit by CritGames (<http://critgames.com/)  >
 	- <http://shop.critgames.com/item/rpg-player-kit-pre-order>
@@ -66,15 +66,15 @@ The following items are things I used, found and collected during my entire grad
 <https://www.patreon.com/mz4250>  
 <https://www.reddit.com/r/DnD/comments/aq72ok/3d_printing_miniatures/egfk20m/>
 
-![X-Cube Markers by Poison Spurs]({{site.url}}/inspiration/lightcube.jpg)
+![X-Cube Markers by Poison Spurs]({{site.url}}/assets/inspiration/lightcube.jpg)
 - X-Cube Markers by Poison Spurs  
 <https://poisonspurs.blogspot.com/2019/03/i-doubt-your-commitment-to-sparkle.html>
 
-![Lost Mines of Phandelver Quest flowchart by -u-Robbrauen]({{site.url}}/inspiration/robbrauen.jpg)
+![Lost Mines of Phandelver Quest flowchart by -u-Robbrauen]({{site.url}}/assets/inspiration/robbrauen.jpg)
 - Lost Mines of Phandelver Quest flowchart by -u-Robbrauen  
 <https://www.reddit.com/r/dndnext/comments/2daxov/lost_mine_of_phandelver_flowchart_for_main_and/>
 
-![Playerboard by /u/Slayer175 ]({{site.url}}/inspiration/slayer175.jpg)
+![Playerboard by /u/Slayer175 ]({{site.url}}/assets/inspiration/slayer175.jpg)
 - Playerboard by /u/Slayer175  
 <https://www.reddit.com/r/dndnext/comments/62i1ga/some_of_my_newer_players_were_having_trouble/>
 
@@ -88,39 +88,39 @@ The following items are things I used, found and collected during my entire grad
 
 ## Combat reference sheets
 
-![Combat Reference Sheet by /u/seddonym]({{site.url}}/inspiration/combat/seddonym.png)
+![Combat Reference Sheet by /u/seddonym]({{site.url}}/assets/inspiration/combat/seddonym.png)
 - Combat sheet by /u/seddonym
 <https://www.reddit.com/r/DnD/comments/6d1uu2/combat_cheat_sheet_for_new_5e_players/>
 
-![Combat Reference Sheet by /u/Mick_ack]({{site.url}}/inspiration/combat/mike_ack.png)
+![Combat Reference Sheet by /u/Mick_ack]({{site.url}}/assets/inspiration/combat/mike_ack.png)
 - Combat sheet by /u/Mick_ack based on work by /u/seddonum
 
-![Combat Reference Sheet by /u/nilmag]({{site.url}}/inspiration/combat/nilmag.png)
+![Combat Reference Sheet by /u/nilmag]({{site.url}}/assets/inspiration/combat/nilmag.png)
 - Combat sheet by /u/nilmag based on work by /u/seddonum
 
 ## Miniatures and tokens
-![Miniatures]({{site.url}}/inspiration/miniatures.png)
+![Miniatures]({{site.url}}/assets/inspiration/miniatures.png)
 - Miniatures  
 <https://1.bp.blogspot.com/-9vS_nnZIFKM/VF9HwdbhD5I/AAAAAAAATgw/qHcXDCaUseQ/s1600/>1de573ae9dc87c6e95caa946198d5960_large%5B1%5D.png
 
-![Miniatures by Dungeon Doodles]({{site.url}}/inspiration/DungeonDoodles.png)
+![Miniatures by Dungeon Doodles]({{site.url}}/assets/inspiration/DungeonDoodles.png)
 - Miniatures by Dungeon Doodles  
 <https://www.instagram.com/p/BpkYEOLgSnR/>
 
-![Handdrawn tokens by Doodels and Dragons]({{site.url}}/inspiration/doodles.jpg)
+![Handdrawn tokens by Doodels and Dragons]({{site.url}}/assets/inspiration/doodles.jpg)
 - Handdrawn tokens:  
 <https://www.doodlesanddragons.com/>
 
-![Handdrawn tokens by Doodels and Dragons]({{site.url}}/inspiration/printableheroes.jpg)
+![Handdrawn tokens by Doodels and Dragons]({{site.url}}/assets/inspiration/printableheroes.jpg)
 - Printable Heroes  
 <https://printableheroes.tumblr.com/>
 
 ## Dungeon Tiles & Terrain
-![Print & Paste terrain.]({{site.url}}/inspiration/printpastedungeon.jpg)
+![Print & Paste terrain.]({{site.url}}/assets/inspiration/printpastedungeon.jpg)
 - Print & Paste terrain:  
 <https://www.reddit.com/r/DnDIY/comments/alpbt8/more_of_my_print_paste_terrain_link_to_pdf_file/>
 
-![Terrain by Dungeon Doodles]({{site.url}}/inspiration/dungeondoodlesterrain.jpg)
+![Terrain by Dungeon Doodles]({{site.url}}/assets/inspiration/dungeondoodlesterrain.jpg)
 - Terrain by Dungeon Doodles  
 <https://www.instagram.com/p/BkanLq3lMLj/>
 - Dungeon Tiles by Dungeon Doodles  
@@ -129,17 +129,17 @@ The following items are things I used, found and collected during my entire grad
 - Friction on Dungeon Tiles  
 <https://youtu.be/sUQ9PGh3l6Y>
 
-![Battle map by psychic-smith]({{site.url}}/inspiration/psychic.jpg)
+![Battle map by psychic-smith]({{site.url}}/assets/inspiration/psychic.jpg)
 - 3D battle map by Psychic-Smith  
 <https://www.reddit.com/r/DnDHomebrew/comments/av27xx/3d_battlemap_follow_up_same_technique_used_for_my/>
 
 ## DM Screens:
 
-![/u/NewKessey]({{site.url}}/inspiration/combat/newkessey.jpg)
+![/u/NewKessey]({{site.url}}/assets/inspiration/combat/newkessey.jpg)
 - /u/NewKessey  
 <https://www.reddit.com/r/DnDIY/comments/am6afh/dmpost_i_think_im_ready_for_the_last_session_of/>
 
-![Stratagem The Master's Tome]({{site.url}}/inspiration/combat/strategem1.jpg)
+![Stratagem The Master's Tome]({{site.url}}/assets/inspiration/combat/strategem1.jpg)
 - Stratagem The Master's Tome 4-Panel Customizable GM Screen with Free Inserts  
 <https://www.brybelly.com/products.php?categoryId=1348&productId=7589>  
 	Other tools: <https://www.facebook.com/stratagemhq/>
@@ -149,16 +149,16 @@ The following items are things I used, found and collected during my entire grad
 
 ## Inititiative Trackers
 
-![Initiative Tracker by MxMj]({{site.url}}/inspiration/mxmj.png)
+![Initiative Tracker by MxMj]({{site.url}}/assets/inspiration/mxmj.png)
 - Initiative Tracker by MxMj  
 <https://www.reddit.com/r/DnD/comments/anzsjb/oc_lego_dnd_mini_baddies_with_initiative_tracker/>
  met Lego van <https://www.brickforge.com/ en <https://www.brickwarriors.com/>
 
-![Initiative Tracker by pmjohnst]({{site.url}}/inspiration/pmjohnst.png)
+![Initiative Tracker by pmjohnst]({{site.url}}/assets/inspiration/pmjohnst.png)
 - Initiative Tracker by pmjohnst  
 <https://www.reddit.com/r/DnDIY/comments/am2z6a/since_you_guys_are_all_diyers_i_thought_you_might/>
 
-![Initiative Tracker by GhostlyGoats]({{site.url}}/inspiration/ghostlygoats.png)
+![Initiative Tracker by GhostlyGoats]({{site.url}}/assets/inspiration/ghostlygoats.png)
 - Initiative Tracker by GhostlyGoats  
 <https://www.reddit.com/r/DnDIY/comments/alenq9/its_not_the_prettiest_but_its_functional_and_gets/>
 
