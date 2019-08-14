@@ -17,7 +17,7 @@ The following items are things I used, found and collected during my entire grad
 <https://drive.google.com/file/d/1sNgdnqboMVPqnwVt1PYIQHJL2u8bOKho/view>
 
 - Phandelver Quest Cards by Remathilis  
-<http://www.enworld.org/forum/>showthread.php?356866-Lost-Mines-of-Phandelver-Quest-Cards-Come-on-in!
+<http://www.enworld.org/forum/showthread.php?356866-Lost-Mines-of-Phandelver-Quest-Cards-Come-on-in!>
 
 ![Character Tent Cards by Web Pickersgill]({{site.url}}/assets/inspiration/webbpickersgill.jpg)
 - Character Tent Cards by Web Pickersgill  
@@ -101,7 +101,7 @@ The following items are things I used, found and collected during my entire grad
 ## Miniatures and tokens
 ![Miniatures]({{site.url}}/assets/inspiration/miniatures.png)
 - Miniatures  
-<https://1.bp.blogspot.com/-9vS_nnZIFKM/VF9HwdbhD5I/AAAAAAAATgw/qHcXDCaUseQ/s1600/>1de573ae9dc87c6e95caa946198d5960_large%5B1%5D.png
+<https://1.bp.blogspot.com/-9vS_nnZIFKM/VF9HwdbhD5I/AAAAAAAATgw/qHcXDCaUseQ/s1600/1de573ae9dc87c6e95caa946198d5960_large%5B1%5D.png>
 
 ![Miniatures by Dungeon Doodles]({{site.url}}/assets/inspiration/DungeonDoodles.png)
 - Miniatures by Dungeon Doodles  
@@ -177,17 +177,17 @@ The following items are things I used, found and collected during my entire grad
 
 ![Character Sheet by /u/a-perture]({{site.url}}/assets/charsheet_a-perture.jpg)
 - Character Sheet by /u/a-perture  
-<https://www.reddit.com/r/DnD/comments/9hjzei/art_i_made_a_character_sheet/>
+<https://www.reddit.com/r/DnD/comments/9hjzei/art_i_made_a_character_sheet/>  
 	- Opinion:
 	<https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/ehcpbry/>
 
 ![Character Sheet by Emmet Byrne]({{site.url}}/assets/EmmetByrne.png)
 - Class Character Sheets - The Bundle by Emmet Byrne  
 <https://www.dmsguild.com/product/232835>
-	- Opinions:
+	- Opinions:  
 	<https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/ehbsf9u/>
-	- Linked thread: <https://www.reddit.com/r/dndnext/comments/7ubk9l/>class_character_sheets_complete_bundle_plus/
-	<https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/ehc0d61/>
+	- Linked thread: <https://www.reddit.com/r/dndnext/comments/7ubk9l/class_character_sheets_complete_bundle_plus/>  
+	<https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/ehc0d61/>  
 
 ![DnD Beyond Character sheet]({{site.url}}/assets/dnd-beyond.png)
 - Character Sheets by DnD Beyond  
@@ -213,7 +213,7 @@ The following items are things I used, found and collected during my entire grad
 <https://www.reddit.com/r/DnDIY/comments/ay7i2d/i_created_spell_slot_and_class_ability_trackers/>
 
 - Spell Sheet by /u/a-perture  
-<https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/>ehcpbry/  
+<https://www.reddit.com/r/DnD/comments/av0v8z/5e_custom_character_sheets_which_ones_do_you_use/ehcpbry/>  
 <https://www.reddit.com/r/DnD/comments/9maoz1/ocart_got_a_great_response_to_my_character_sheet/>
 
 ### Resources:
