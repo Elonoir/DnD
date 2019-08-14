@@ -28,6 +28,9 @@ makersbase breda
 sven en karlijn
 nina
 
+Eerdere hulp van docenten en begeleiding bij Avans (and life)
+	Wander, Esther, Othmar. Kathy etc.
+
 ## Extra information
 
 I have extra reference material available, but these contain information I can not freely share online. These are available upon request.
@@ -37,13 +40,15 @@ _D & D Dungeon Masters screen: Reincarnated._ (2017). Renton, Washington.: Wizar
 D&D Official Homepage. (n.d.). Retrieved January 30, 2019, from <http://dnd.wizards.com/>  
 _D&D starter set._ (2014). Renton, WA: Wizards of the Coast.  
 Greenbook. (n.d.). Greenbook. Retrieved August 14, 2019, from <https://www.greenbook.net/>  
+Guiton, R., Lullien, J., & Raoult, N. (2012). Zombicide. Guillotine Games.  
+Leacock, M. (2013). Pandemic. Roseville, MN: Z-Man Games.  
 Mearls, M., & Crawford, J. (2014). _Dungeon masters guide._ Renton, WA: Wizards of the Coast.  
 Mearls, M., & Crawford, J. (2014). _Dungeons & dragons players handbook._ Renton, WA: Wizards of the Coast LLC.  
+Pope, B., & Pope, B. (2012). Mage Wars Arena. Arcane Wonders.  
 R/DnD. (n.d.). Retrieved January 30, 2019, from <https://www.reddit.com/r/DnD/  >  
 R/DnDIY. (n.d.). Retrieved January 30, 2019, from <https://www.reddit.com/r/DnDIY/  >  
 R/DnDBehindTheScreen. (n.d.). Retrieved January 30, 2019, from <https://www.reddit.com/r/DnDBehindTheScreen/>  
 Vox. (2018, June 14). _Dungeons and Dragons, explained._ Retrieved from <https://www.youtube.com/watch?v=2PEt5RdNHNw>
-
 
 ### Inspiration
 
