@@ -9,8 +9,8 @@ category: deliverables
 
 ## Final Usertest 
 
-<iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLo_ke79yXggRU_eEQ9Gzjr39CAxhOM0Bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Playlist with two videos. Second video in the playlist contains user feedback.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLo_ke79yXggRU_eEQ9Gzjr39CAxhOM0Bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Playlist with two videos. Second video in the playlist contains user feedback. In the case the above embedded playlist doesn't work you can find it here: [link](https://www.youtube.com/playlist?list=PLo_ke79yXggRU_eEQ9Gzjr39CAxhOM0Bw)
 
 ## Proof of Concept
 
