@@ -9,7 +9,7 @@ category: deliverables
 
 ## Final Usertest
 
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLo_ke79yXggRU_eEQ9Gzjr39CAxhOM0Bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315"src="https://www.youtube-nocookie.com/embed/videoseries?list=PLo_ke79yXggRU_eEQ9Gzjr39CAxhOM0Bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Proof of Concept
 
