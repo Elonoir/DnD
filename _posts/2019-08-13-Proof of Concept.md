@@ -10,7 +10,7 @@ category: deliverables
 ## Final Usertest 
 
 <iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLo_ke79yXggRU_eEQ9Gzjr39CAxhOM0Bw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Playlist with two videos. Second playlist contains user feedback.
+Playlist with two videos. Second video in the playlist contains user feedback.
 
 ## Proof of Concept
 
