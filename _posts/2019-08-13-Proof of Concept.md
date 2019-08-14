@@ -75,4 +75,4 @@ category: deliverables
 
 ![Proof of Concept step #26]({{site.url}}/assets/proofofconcept/26.jpg)
 
-![Quickprogress Photo update #27]({{site.url}}/assets/proofofconcept/27.jpg)
+![Proof of Concept step #27]({{site.url}}/assets/proofofconcept/27.jpg)
